@@ -1,0 +1,1277 @@
+positive/dataset_1_img1.png 4 322 274 96 84 46 201 48 46 329 206 44 41 137 226 68 59
+positive/dataset_1_img10.png 4 345 281 121 99 332 198 58 45 124 218 74 64 29 194 48 45
+positive/dataset_1_img11.png 4 372 286 110 105 338 197 56 44 130 219 73 65 28 186 52 51
+positive/dataset_1_img12.png 4 348 298 130 113 339 201 48 44 115 225 73 65 19 189 51 52
+positive/dataset_1_img13.png 4 125 226 71 69 360 302 124 109 338 198 57 50 20 194 57 50
+positive/dataset_1_img14.png 4 347 196 56 52 370 298 144 130 123 224 81 76 19 189 60 55
+positive/dataset_1_img143.png 1 1 350 99 152
+positive/dataset_1_img144.png 1 2 349 104 148
+positive/dataset_1_img145.png 1 5 330 119 143
+positive/dataset_1_img146.png 1 31 318 108 135
+positive/dataset_1_img147.png 1 42 310 106 124
+positive/dataset_1_img148.png 1 65 305 102 113
+positive/dataset_1_img149.png 1 74 297 107 120
+positive/dataset_1_img15.png 4 390 317 118 122 344 200 52 47 114 231 71 68 12 196 54 48
+positive/dataset_1_img150.png 1 86 292 102 112
+positive/dataset_1_img151.png 1 109 281 89 105
+positive/dataset_1_img152.png 1 114 279 90 106
+positive/dataset_1_img153.png 1 126 273 92 104
+positive/dataset_1_img154.png 1 148 266 81 99
+positive/dataset_1_img155.png 1 146 268 92 105
+positive/dataset_1_img156.png 1 157 258 89 97
+positive/dataset_1_img157.png 1 167 262 81 88
+positive/dataset_1_img158.png 1 177 258 80 85
+positive/dataset_1_img16.png 4 384 313 131 131 348 200 55 51 110 232 76 68 6 191 61 53
+positive/dataset_1_img160.png 1 191 257 83 78
+positive/dataset_1_img162.png 1 207 246 68 79
+positive/dataset_1_img163.png 1 214 247 69 78
+positive/dataset_1_img164.png 1 218 241 70 75
+positive/dataset_1_img165.png 1 231 243 61 69
+positive/dataset_1_img166.png 1 229 235 74 73
+positive/dataset_1_img167.png 1 236 248 70 68
+positive/dataset_1_img168.png 1 241 238 64 66
+positive/dataset_1_img169.png 1 251 239 64 63
+positive/dataset_1_img17.png 4 109 222 87 81 13 190 52 51 394 327 147 132 357 201 54 48
+positive/dataset_1_img170.png 1 253 230 60 68
+positive/dataset_1_img171.png 1 267 233 59 60
+positive/dataset_1_img172.png 1 272 231 58 60
+positive/dataset_1_img173.png 1 279 230 52 57
+positive/dataset_1_img174.png 1 278 227 59 54
+positive/dataset_1_img175.png 1 282 219 57 56
+positive/dataset_1_img176.png 1 285 218 54 56
+positive/dataset_1_img177.png 1 293 221 51 51
+positive/dataset_1_img178.png 1 301 223 48 49
+positive/dataset_1_img179.png 1 299 218 55 50
+positive/dataset_1_img18.png 4 378 334 160 142 91 228 91 78 347 201 56 49 2 194 49 50
+positive/dataset_1_img180.png 1 308 220 49 48
+positive/dataset_1_img181.png 1 309 212 52 51
+positive/dataset_1_img182.png 2 307 209 59 52 0 366 125 168
+positive/dataset_1_img183.png 2 316 212 51 49 1 357 146 146
+positive/dataset_1_img184.png 1 14 352 147 144
+positive/dataset_1_img185.png 1 36 352 146 129
+positive/dataset_1_img186.png 3 18 245 89 70 72 336 137 126 325 211 59 51
+positive/dataset_1_img187.png 4 88 327 130 124 331 209 52 43 26 238 82 69 34 207 43 36
+positive/dataset_1_img188.png 4 113 317 122 113 52 233 68 69 336 209 47 45 44 210 41 38
+positive/dataset_1_img189.png 4 50 205 45 44 64 233 63 65 136 306 117 107 341 209 49 42
+positive/dataset_1_img19.png 4 89 227 89 81 349 198 58 53 393 337 156 140 2 190 51 57
+positive/dataset_1_img190.png 4 148 298 112 112 337 205 58 45 74 227 64 65 57 202 42 39
+positive/dataset_1_img191.png 4 85 229 66 62 172 288 103 110 341 203 50 47 70 203 38 43
+positive/dataset_1_img192.png 4 74 203 40 42 92 229 71 62 180 294 106 97 350 207 44 42
+positive/dataset_1_img193.png 4 84 202 35 40 104 226 62 59 194 279 99 101 353 201 46 43
+positive/dataset_1_img194.png 4 89 199 41 41 210 277 93 95 361 202 35 40 118 224 57 55
+positive/dataset_1_img195.png 4 214 277 91 86 358 202 43 40 123 224 64 57 93 200 38 37
+positive/dataset_1_img196.png 4 98 195 40 44 221 274 90 87 358 198 47 43 128 222 59 55
+positive/dataset_1_img197.png 4 102 198 41 39 133 215 63 60 231 266 89 81 360 194 44 44
+positive/dataset_1_img198.png 4 146 217 52 51 106 195 43 36 233 262 92 80 364 196 45 42
+positive/dataset_1_img199.png 4 112 194 47 37 153 209 68 59 258 261 83 77 371 192 43 44
+positive/dataset_1_img2.png 4 47 199 50 48 137 226 68 58 330 205 43 42 328 271 98 88
+positive/dataset_1_img20.png 4 404 345 168 155 355 195 56 55 86 224 94 85 3 191 48 54
+positive/dataset_1_img200.png 4 302 260 87 80 389 193 47 41 185 209 54 57 132 192 48 37
+positive/dataset_1_img201.png 4 193 211 56 57 314 261 91 84 399 191 45 45 141 189 42 40
+positive/dataset_1_img202.png 4 188 211 56 58 320 260 86 87 405 191 38 43 140 191 39 38
+positive/dataset_1_img203.png 4 132 191 42 39 179 209 59 62 306 265 94 91 400 188 45 45
+positive/dataset_1_img204.png 4 128 192 42 44 179 215 57 60 302 274 96 95 402 197 42 41
+positive/dataset_1_img205.png 4 125 198 40 41 168 220 67 62 287 282 102 95 400 199 44 42
+positive/dataset_1_img206.png 4 158 222 66 60 284 285 100 100 397 198 49 44 118 197 40 43
+positive/dataset_1_img207.png 4 113 196 44 42 275 281 103 97 389 194 54 52 150 216 69 64
+positive/dataset_1_img208.png 4 108 194 44 43 141 218 70 65 266 283 107 103 396 196 45 47
+positive/dataset_1_img209.png 4 247 285 121 111 388 188 56 52 128 219 76 63 99 192 46 47
+positive/dataset_1_img21.png 4 412 361 188 165 353 200 61 53 81 224 95 92 0 191 46 55
+positive/dataset_1_img210.png 4 100 196 40 41 233 288 125 109 384 194 56 48 125 219 70 64
+positive/dataset_1_img211.png 4 227 299 123 119 389 198 50 49 115 226 79 67 90 194 45 48
+positive/dataset_1_img212.png 4 209 321 134 118 381 195 59 51 107 223 75 70 79 195 51 44
+positive/dataset_1_img213.png 4 79 202 49 47 196 319 136 126 96 230 82 72 385 200 46 51
+positive/dataset_1_img214.png 4 74 200 48 47 91 233 74 76 182 328 137 135 380 204 57 49
+positive/dataset_1_img215.png 4 374 207 62 56 158 362 149 139 77 244 77 73 60 207 50 45
+positive/dataset_1_img216.png 4 61 245 86 75 139 364 156 143 372 203 60 57 57 209 51 42
+positive/dataset_1_img217.png 4 109 378 171 149 60 247 71 74 379 209 51 54 54 208 53 48
+positive/dataset_1_img218.png 3 38 258 86 81 93 395 175 174 38 216 56 46
+positive/dataset_1_img219.png 4 371 214 53 50 72 389 185 169 28 247 87 77 37 207 52 51
+positive/dataset_1_img22.png 4 437 363 186 177 360 194 64 58 92 234 92 81 0 186 52 61
+positive/dataset_1_img220.png 4 37 410 194 183 15 250 92 85 368 215 56 51 36 212 48 46
+positive/dataset_1_img221.png 4 367 225 61 52 1 470 195 191 1 263 88 99 20 220 55 51
+positive/dataset_1_img222.png 4 19 207 49 59 370 210 53 58 0 454 181 214 2 258 74 92
+positive/dataset_1_img223.png 4 12 211 51 57 365 211 57 67 1 265 67 97 0 526 146 188
+positive/dataset_1_img224.png 2 359 231 72 64 3 230 56 58
+positive/dataset_1_img225.png 2 8 209 48 61 370 221 59 55
+positive/dataset_1_img226.png 2 369 223 63 59 1 213 48 56
+positive/dataset_1_img227.png 2 371 226 64 61 0 218 42 53
+positive/dataset_1_img228.png 1 2 215 37 55
+positive/dataset_1_img229.png 1 363 233 64 62
+positive/dataset_1_img23.png 4 86 221 99 99 364 195 68 58 458 387 212 193 0 191 46 57
+positive/dataset_1_img230.png 1 349 228 78 68
+positive/dataset_1_img231.png 1 351 235 71 63
+positive/dataset_1_img232.png 1 351 234 62 66
+positive/dataset_1_img233.png 1 341 230 71 73
+positive/dataset_1_img234.png 1 336 226 74 73
+positive/dataset_1_img235.png 1 337 222 77 80
+positive/dataset_1_img237.png 1 325 232 80 79
+positive/dataset_1_img238.png 1 329 239 76 74
+positive/dataset_1_img239.png 1 318 238 82 83
+positive/dataset_1_img24.png 3 356 198 62 59 446 411 228 224 49 229 109 102
+positive/dataset_1_img240.png 1 321 244 78 78
+positive/dataset_1_img241.png 1 314 240 83 85
+positive/dataset_1_img242.png 1 313 242 84 89
+positive/dataset_1_img244.png 1 291 244 82 90
+positive/dataset_1_img245.png 1 283 259 86 90
+positive/dataset_1_img246.png 1 278 254 90 101
+positive/dataset_1_img247.png 1 264 265 91 100
+positive/dataset_1_img248.png 1 263 275 86 111
+positive/dataset_1_img249.png 1 265 279 88 101
+positive/dataset_1_img25.png 3 49 240 104 102 362 198 63 65 446 443 264 236
+positive/dataset_1_img250.png 1 254 271 102 118
+positive/dataset_1_img251.png 1 246 275 98 123
+positive/dataset_1_img252.png 1 255 287 97 111
+positive/dataset_1_img253.png 1 251 295 104 115
+positive/dataset_1_img254.png 1 241 313 106 118
+positive/dataset_1_img255.png 1 240 317 109 125
+positive/dataset_1_img256.png 1 236 315 106 121
+positive/dataset_1_img257.png 1 223 315 118 138
+positive/dataset_1_img258.png 1 218 322 114 142
+positive/dataset_1_img259.png 1 213 324 119 146
+positive/dataset_1_img26.png 3 28 248 116 106 356 200 70 63 467 497 295 222
+positive/dataset_1_img260.png 1 195 340 126 157
+positive/dataset_1_img264.png 1 125 408 159 203
+positive/dataset_1_img265.png 1 112 423 157 195
+positive/dataset_1_img266.png 1 80 441 162 209
+positive/dataset_1_img267.png 1 31 479 177 238
+positive/dataset_1_img268.png 1 1 485 185 234
+positive/dataset_1_img269.png 1 1 490 161 228
+positive/dataset_1_img27.png 3 24 243 119 115 366 202 64 61 501 547 316 172
+positive/dataset_1_img28.png 3 9 256 131 117 9 256 131 117 367 204 69 66
+positive/dataset_1_img29.png 2 2 265 120 123 374 209 72 65
+positive/dataset_1_img3.png 4 140 228 62 56 332 276 88 82 43 201 51 46 327 203 50 49
+positive/dataset_1_img30.png 2 369 208 73 66 1 264 109 127
+positive/dataset_1_img31.png 2 377 208 65 72 1 271 100 136
+positive/dataset_1_img32.png 1 375 221 68 68
+positive/dataset_1_img33.png 1 373 223 72 72
+positive/dataset_1_img331.png 1 306 567 269 151
+positive/dataset_1_img332.png 1 327 485 279 233
+positive/dataset_1_img333.png 1 346 460 204 212
+positive/dataset_1_img334.png 1 366 422 235 254
+positive/dataset_1_img335.png 1 377 391 200 221
+positive/dataset_1_img336.png 1 380 390 212 225
+positive/dataset_1_img337.png 1 398 375 183 196
+positive/dataset_1_img338.png 1 398 352 172 178
+positive/dataset_1_img339.png 1 398 334 178 185
+positive/dataset_1_img34.png 1 375 220 77 70
+positive/dataset_1_img340.png 1 423 324 150 164
+positive/dataset_1_img341.png 1 423 299 150 172
+positive/dataset_1_img342.png 1 428 305 148 157
+positive/dataset_1_img343.png 1 431 286 137 151
+positive/dataset_1_img345.png 1 443 270 134 140
+positive/dataset_1_img346.png 1 455 273 118 128
+positive/dataset_1_img347.png 1 458 280 114 117
+positive/dataset_1_img348.png 1 462 271 110 125
+positive/dataset_1_img349.png 1 458 267 112 116
+positive/dataset_1_img35.png 1 371 219 84 78
+positive/dataset_1_img350.png 1 451 249 120 117
+positive/dataset_1_img351.png 1 451 249 112 114
+positive/dataset_1_img352.png 1 457 246 111 109
+positive/dataset_1_img353.png 1 466 247 109 97
+positive/dataset_1_img354.png 1 477 241 101 102
+positive/dataset_1_img355.png 1 465 241 100 96
+positive/dataset_1_img357.png 1 474 236 96 92
+positive/dataset_1_img358.png 2 476 227 86 95 1 222 51 72
+positive/dataset_1_img359.png 2 476 235 89 84 12 218 65 68
+positive/dataset_1_img36.png 1 370 224 84 82
+positive/dataset_1_img360.png 2 485 225 83 88 18 211 61 73
+positive/dataset_1_img361.png 2 26 214 64 64 481 229 79 76
+positive/dataset_1_img362.png 2 38 213 61 67 482 228 80 81
+positive/dataset_1_img363.png 2 35 210 73 68 481 220 85 82
+positive/dataset_1_img364.png 2 473 214 90 89 48 208 58 66
+positive/dataset_1_img365.png 2 61 208 56 66 470 221 81 77
+positive/dataset_1_img366.png 2 475 215 73 77 68 211 52 58
+positive/dataset_1_img367.png 2 81 210 48 56 471 215 77 73
+positive/dataset_1_img368.png 3 89 204 50 59 473 208 68 72 1 262 84 129
+positive/dataset_1_img369.png 3 476 212 68 74 2 271 75 115 86 211 52 54
+positive/dataset_1_img370.png 3 472 213 68 68 97 213 47 51 1 262 88 115
+positive/dataset_1_img371.png 3 472 219 61 62 101 208 51 57 4 259 104 114
+positive/dataset_1_img372.png 3 115 203 41 51 7 247 105 116 473 206 72 69
+positive/dataset_1_img373.png 3 26 248 106 105 115 199 48 55 476 205 65 63
+positive/dataset_1_img374.png 3 472 205 67 63 44 239 104 103 122 198 52 52
+positive/dataset_1_img375.png 3 52 235 104 102 482 203 61 62 129 199 51 50
+positive/dataset_1_img376.png 3 69 240 98 92 136 194 47 52 472 202 65 62
+positive/dataset_1_img378.png 4 7 407 223 225 100 228 91 96 478 197 59 59 148 194 47 48
+positive/dataset_1_img379.png 4 49 379 202 214 107 227 89 89 479 194 58 62 150 189 50 46
+positive/dataset_1_img38.png 1 375 230 80 85
+positive/dataset_1_img380.png 4 80 362 187 194 476 193 60 63 117 227 98 92 159 194 48 46
+positive/dataset_1_img381.png 4 89 351 189 212 124 218 86 93 478 196 60 57 158 192 55 46
+positive/dataset_1_img382.png 4 116 339 171 183 479 190 59 61 135 220 83 82 171 188 43 49
+positive/dataset_1_img383.png 4 154 315 149 174 144 219 90 77 481 198 56 53 176 191 45 42
+positive/dataset_1_img384.png 3 484 190 52 58 157 308 156 168 154 213 80 81
+positive/dataset_1_img385.png 3 166 211 76 81 176 306 143 149 481 187 55 54
+positive/dataset_1_img386.png 3 197 309 137 138 481 198 56 53 169 213 81 79
+positive/dataset_1_img387.png 3 210 300 132 151 485 191 55 58 178 219 78 72
+positive/dataset_1_img388.png 3 217 299 126 134 191 217 67 74 485 194 48 52
+positive/dataset_1_img389.png 2 227 270 125 131 199 209 77 71
+positive/dataset_1_img39.png 1 372 237 85 91
+positive/dataset_1_img390.png 3 234 284 128 122 199 209 72 74 480 190 66 58
+positive/dataset_1_img391.png 3 251 265 121 123 483 192 53 50 217 210 65 69
+positive/dataset_1_img392.png 3 272 259 99 110 481 187 59 53 217 206 72 68
+positive/dataset_1_img393.png 3 266 264 109 109 494 187 45 52 226 206 65 69
+positive/dataset_1_img394.png 4 274 258 110 114 485 192 53 49 226 205 67 71 1 201 54 53
+positive/dataset_1_img395.png 4 3 197 61 61 284 262 107 102 484 192 53 49 236 213 64 58
+positive/dataset_1_img396.png 4 9 192 63 65 236 201 72 72 293 259 106 100 489 187 52 53
+positive/dataset_1_img397.png 4 22 194 52 54 246 205 66 64 299 248 104 103 492 186 46 51
+positive/dataset_1_img398.png 4 307 237 99 93 490 174 48 49 247 189 69 64 34 182 52 52
+positive/dataset_1_img399.png 5 34 194 53 55 314 250 97 92 489 186 50 55 258 203 64 59 243 183 42 40
+positive/dataset_1_img4.png 4 39 203 48 45 123 223 78 68 330 277 109 93 327 202 53 50
+positive/dataset_1_img40.png 1 370 241 92 94
+positive/dataset_1_img400.png 5 317 250 91 88 496 188 44 48 42 200 53 46 250 186 35 37 259 203 59 59
+positive/dataset_1_img401.png 5 324 245 93 91 493 187 46 53 54 192 50 52 251 185 43 41 265 205 61 59
+positive/dataset_1_img402.png 5 49 191 55 52 255 184 38 41 272 200 57 55 323 234 98 98 492 187 50 49
+positive/dataset_1_img403.png 5 65 186 56 53 359 236 83 90 504 185 46 51 263 179 40 41 283 192 64 63
+positive/dataset_1_img404.png 5 88 188 55 53 400 233 86 87 524 179 50 51 285 180 42 40 312 192 59 61
+positive/dataset_1_img405.png 5 98 186 52 53 408 235 86 85 534 182 43 49 292 183 40 40 318 194 62 63
+positive/dataset_1_img406.png 5 94 193 50 50 406 238 91 97 529 182 55 52 320 202 62 57 288 183 42 38
+positive/dataset_1_img407.png 5 80 193 57 50 284 182 46 43 310 195 72 66 402 243 103 104 533 187 49 49
+positive/dataset_1_img408.png 5 80 192 55 50 396 248 95 92 538 187 45 45 309 201 65 61 284 184 41 40
+positive/dataset_1_img409.png 5 78 196 46 50 277 182 50 46 304 198 75 67 529 187 56 51 391 245 119 109
+positive/dataset_1_img41.png 1 362 240 99 103
+positive/dataset_1_img410.png 5 398 247 104 103 541 189 49 51 307 203 64 63 69 198 60 50 279 182 43 46
+positive/dataset_1_img411.png 5 67 196 54 52 277 186 45 44 539 190 49 49 393 255 103 101 306 204 67 68
+positive/dataset_1_img412.png 5 64 198 53 54 281 189 39 42 543 193 49 49 387 256 114 108 306 206 66 67
+positive/dataset_1_img413.png 5 55 198 53 56 276 189 44 43 547 193 53 51 389 265 115 108 301 207 69 68
+positive/dataset_1_img414.png 5 53 200 49 55 274 191 45 43 543 194 56 51 385 267 124 115 296 211 67 64
+positive/dataset_1_img415.png 5 43 195 63 60 272 182 47 52 545 192 55 52 388 270 112 107 296 202 65 68
+positive/dataset_1_img416.png 5 549 182 60 59 381 267 124 122 289 207 73 66 40 192 56 63 275 182 37 48
+positive/dataset_1_img417.png 5 31 199 63 56 268 180 44 49 386 275 122 127 553 188 58 48 287 206 77 65
+positive/dataset_1_img418.png 5 23 195 65 65 271 184 41 50 381 286 126 122 556 189 48 56 288 210 75 75
+positive/dataset_1_img419.png 4 15 197 58 62 378 285 136 144 267 185 44 47 280 207 78 76
+positive/dataset_1_img42.png 1 357 241 96 103
+positive/dataset_1_img420.png 5 3 193 71 67 377 290 145 144 561 183 59 61 265 180 44 48 282 203 86 84
+positive/dataset_1_img421.png 5 5 191 60 67 379 295 157 157 558 177 66 65 280 208 79 73 267 185 52 47
+positive/dataset_1_img422.png 5 0 198 55 67 258 183 55 55 278 213 81 77 564 190 65 58 369 311 177 172
+positive/dataset_1_img423.png 5 1 201 49 66 264 183 43 53 569 187 60 66 371 326 180 171 275 213 77 81
+positive/dataset_1_img424.png 5 0 198 41 75 359 323 191 189 571 184 63 61 261 185 46 47 271 220 83 80
+positive/dataset_1_img425.png 4 250 204 58 51 268 238 88 84 582 205 63 69 366 369 200 214
+positive/dataset_1_img426.png 4 256 217 98 92 585 192 65 64 351 365 222 203 255 188 49 45
+positive/dataset_1_img427.png 4 255 187 50 53 588 195 65 67 349 379 234 221 255 221 88 87
+positive/dataset_1_img429.png 4 323 452 271 254 594 201 67 70 231 237 108 90 252 194 46 55
+positive/dataset_1_img43.png 1 354 242 98 100
+positive/dataset_1_img430.png 4 305 492 315 225 595 194 78 77 238 237 95 103 244 193 61 57
+positive/dataset_1_img431.png 4 227 227 110 116 242 195 53 56 602 196 72 77 287 553 358 166
+positive/dataset_1_img432.png 3 217 236 118 104 243 202 52 48 599 200 74 73
+positive/dataset_1_img433.png 3 207 235 119 117 238 194 53 58 604 203 75 72
+positive/dataset_1_img434.png 3 198 246 126 122 229 192 64 71 615 200 95 84
+positive/dataset_1_img435.png 3 207 255 109 119 226 196 73 65 626 205 80 80
+positive/dataset_1_img436.png 3 183 252 132 130 225 193 64 73 640 217 76 75
+positive/dataset_1_img437.png 3 188 262 127 126 637 207 88 79 229 200 62 65
+positive/dataset_1_img438.png 3 187 259 131 132 223 199 65 61 646 211 74 77
+positive/dataset_1_img439.png 3 157 261 144 152 226 203 56 61 657 215 82 79
+positive/dataset_1_img44.png 1 349 244 106 111
+positive/dataset_1_img440.png 3 211 206 73 62 157 280 141 142 651 214 93 85
+positive/dataset_1_img441.png 3 223 208 53 63 662 210 91 86 138 285 166 155
+positive/dataset_1_img442.png 3 132 285 156 158 210 203 70 76 666 213 91 95
+positive/dataset_1_img443.png 3 106 292 174 178 213 204 58 73 672 222 91 87
+positive/dataset_1_img444.png 3 102 313 184 161 202 207 72 75 670 211 95 107
+positive/dataset_1_img445.png 3 77 314 182 188 204 207 66 74 687 220 96 102
+positive/dataset_1_img446.png 3 54 326 192 195 196 209 72 75 696 219 95 103
+positive/dataset_1_img447.png 3 44 333 211 202 193 207 78 88 696 219 109 108
+positive/dataset_1_img448.png 3 9 358 217 224 181 219 80 76 707 229 104 111
+positive/dataset_1_img449.png 3 0 364 204 239 180 219 75 75 722 222 100 115
+positive/dataset_1_img45.png 1 334 253 106 105
+positive/dataset_1_img450.png 3 177 218 74 76 723 225 102 112 0 357 186 252
+positive/dataset_1_img451.png 3 177 214 63 85 736 224 104 116 2 391 147 262
+positive/dataset_1_img452.png 2 166 213 64 81 740 218 112 124
+positive/dataset_1_img453.png 2 154 205 81 88 738 227 124 115
+positive/dataset_1_img454.png 2 146 208 66 91 751 230 126 127
+positive/dataset_1_img455.png 2 130 212 71 91 763 230 125 132
+positive/dataset_1_img456.png 2 131 221 72 90 757 233 131 145
+positive/dataset_1_img457.png 2 115 227 78 93 783 260 135 136
+positive/dataset_1_img458.png 2 106 224 77 101 793 253 147 157
+positive/dataset_1_img459.png 2 104 232 77 96 797 257 148 150
+positive/dataset_1_img46.png 1 326 258 101 104
+positive/dataset_1_img460.png 2 88 231 79 106 811 256 146 161
+positive/dataset_1_img461.png 2 63 229 87 110 850 255 108 179
+positive/dataset_1_img462.png 2 51 237 89 112 856 271 103 177
+positive/dataset_1_img463.png 1 30 238 90 111
+positive/dataset_1_img464.png 1 12 240 99 114
+positive/dataset_1_img466.png 1 2 253 80 139
+positive/dataset_1_img467.png 1 3 257 65 127
+positive/dataset_1_img468.png 1 1 276 60 120
+positive/dataset_1_img47.png 1 324 257 102 116
+positive/dataset_1_img48.png 1 316 263 100 116
+positive/dataset_1_img49.png 1 305 276 114 116
+positive/dataset_1_img5.png 4 332 277 111 104 331 197 56 53 133 224 64 62 39 197 55 51
+positive/dataset_1_img50.png 1 293 277 117 125
+positive/dataset_1_img51.png 1 285 281 125 131
+positive/dataset_1_img52.png 1 268 294 125 138
+positive/dataset_1_img53.png 1 256 288 128 145
+positive/dataset_1_img532.png 1 2 328 74 178
+positive/dataset_1_img533.png 1 1 308 109 164
+positive/dataset_1_img534.png 1 20 303 113 154
+positive/dataset_1_img535.png 1 38 294 111 146
+positive/dataset_1_img536.png 1 71 286 98 149
+positive/dataset_1_img537.png 1 83 279 102 140
+positive/dataset_1_img538.png 1 106 264 91 136
+positive/dataset_1_img539.png 1 120 245 100 136
+positive/dataset_1_img541.png 1 156 242 87 120
+positive/dataset_1_img542.png 1 173 236 85 116
+positive/dataset_1_img543.png 1 175 236 83 115
+positive/dataset_1_img544.png 1 182 237 90 111
+positive/dataset_1_img545.png 1 204 236 81 109
+positive/dataset_1_img546.png 1 207 231 84 111
+positive/dataset_1_img547.png 1 221 227 79 101
+positive/dataset_1_img548.png 1 231 226 70 97
+positive/dataset_1_img549.png 1 235 221 75 94
+positive/dataset_1_img550.png 1 240 219 71 93
+positive/dataset_1_img551.png 1 248 213 73 91
+positive/dataset_1_img552.png 1 245 213 80 90
+positive/dataset_1_img553.png 1 264 215 67 87
+positive/dataset_1_img554.png 3 277 215 64 82 1 407 206 310 880 243 79 123
+positive/dataset_1_img555.png 3 267 207 80 93 1 378 234 302 865 228 92 126
+positive/dataset_1_img556.png 3 285 216 69 77 13 384 242 286 859 239 100 120
+positive/dataset_1_img557.png 3 72 366 211 244 296 218 59 77 835 246 116 107
+positive/dataset_1_img558.png 3 301 213 65 75 102 347 203 219 835 231 107 110
+positive/dataset_1_img559.png 3 306 208 65 75 828 228 112 104 121 315 194 221
+positive/dataset_1_img56.png 1 206 319 139 151
+positive/dataset_1_img560.png 3 160 315 182 181 306 203 71 75 815 219 107 107
+positive/dataset_1_img561.png 3 180 298 164 182 314 199 65 72 799 209 110 111
+positive/dataset_1_img562.png 3 190 296 166 170 323 199 58 73 797 217 107 105
+positive/dataset_1_img563.png 3 224 274 147 168 329 202 56 67 789 217 89 92
+positive/dataset_1_img564.png 3 232 281 145 158 332 206 58 64 786 219 90 93
+positive/dataset_1_img565.png 3 237 267 139 151 335 194 53 69 779 204 101 103
+positive/dataset_1_img566.png 2 228 90 143 164 789 115 103 95
+positive/dataset_1_img567.png 2 330 35 59 72 803 2 97 94
+positive/dataset_1_img58.png 1 164 339 151 163
+positive/dataset_1_img59.png 1 134 352 165 183
+positive/dataset_1_img6.png 4 340 274 103 106 330 198 54 61 126 218 78 75 40 196 46 48
+positive/dataset_1_img61.png 1 52 395 192 219
+positive/dataset_1_img63.png 1 1 418 190 247
+positive/dataset_1_img64.png 1 2 461 135 255
+positive/dataset_1_img7.png 4 356 264 100 109 338 185 53 62 136 218 71 65 43 188 53 52
+positive/dataset_1_img8.png 4 356 272 111 101 344 190 46 53 134 216 74 70 39 188 52 52
+positive/dataset_1_img9.png 4 337 272 112 106 324 190 59 58 118 213 74 71 24 188 56 49
+positive/dataset_2_img10.png 2 144 265 130 128 221 164 59 60
+positive/dataset_2_img100.png 4 228 230 73 73 63 205 60 54 380 194 53 53 577 274 106 97
+positive/dataset_2_img104.png 5 267 213 67 65 564 236 77 86 388 190 54 49 110 201 50 48 0 354 124 156
+positive/dataset_2_img105.png 5 116 199 46 50 271 213 66 63 391 192 50 45 558 236 83 89 1 333 134 165
+positive/dataset_2_img106.png 5 112 200 52 52 265 218 68 61 391 188 45 50 549 236 89 91 1 345 127 159
+positive/dataset_2_img107.png 5 48 343 167 158 133 193 49 50 294 213 71 62 410 188 44 45 598 237 78 88
+positive/dataset_2_img108.png 6 37 194 66 65 194 183 48 47 380 200 72 60 465 175 52 43 717 217 92 89 274 314 173 151
+positive/dataset_2_img109.png 6 85 190 69 65 220 180 49 48 427 193 65 63 503 174 49 46 775 202 97 92 400 294 174 155
+positive/dataset_2_img11.png 2 198 213 78 67 77 343 170 160
+positive/dataset_2_img110.png 6 447 303 156 156 803 211 83 94 226 189 53 52 94 201 68 61 434 208 71 59 508 183 49 44
+positive/dataset_2_img112.png 6 67 215 71 70 436 214 70 69 504 186 64 52 859 238 90 96 439 375 225 218 211 195 56 53
+positive/dataset_2_img113.png 5 43 214 74 74 202 197 58 49 427 206 85 80 515 185 48 49 422 417 273 273
+positive/dataset_2_img114.png 5 18 221 81 79 188 195 66 63 419 219 81 77 507 193 55 51 386 485 308 233
+positive/dataset_2_img116.png 4 438 210 81 76 521 169 54 59 199 186 53 55 21 208 76 73
+positive/dataset_2_img117.png 4 183 210 58 53 443 229 81 84 524 195 58 58 1 237 57 63
+positive/dataset_2_img118.png 3 161 207 73 68 427 242 86 87 515 197 64 60
+positive/dataset_2_img119.png 3 158 211 67 62 426 239 93 90 515 201 67 55
+positive/dataset_2_img12.png 2 192 219 68 66 21 356 184 177
+positive/dataset_2_img123.png 3 413 269 109 120 109 230 62 66 526 213 63 62
+positive/dataset_2_img124.png 3 123 225 75 69 442 272 126 116 544 203 76 80
+positive/dataset_2_img125.png 3 431 276 117 116 108 226 75 77 533 214 76 79
+positive/dataset_2_img126.png 3 107 207 71 75 414 264 124 117 525 191 76 71
+positive/dataset_2_img127.png 3 92 199 78 71 419 255 125 124 534 184 76 71
+positive/dataset_2_img128.png 3 60 234 91 79 422 309 151 155 549 213 83 85
+positive/dataset_2_img129.png 3 61 237 82 82 438 321 174 173 563 220 81 77
+positive/dataset_2_img13.png 2 189 222 65 62 3 366 186 197
+positive/dataset_2_img130.png 3 41 233 92 91 432 323 188 177 562 211 85 89
+positive/dataset_2_img131.png 3 35 243 86 87 416 314 191 185 546 216 91 82
+positive/dataset_2_img132.png 3 2 189 98 90 392 285 189 190 551 174 80 81
+positive/dataset_2_img133.png 2 381 415 262 239 560 218 101 108
+positive/dataset_2_img134.png 2 363 454 305 264 572 231 96 98
+positive/dataset_2_img135.png 2 567 244 105 93 343 496 343 223
+positive/dataset_2_img136.png 2 592 236 102 102 411 507 368 209
+positive/dataset_2_img137.png 2 574 184 113 104 378 470 367 249
+positive/dataset_2_img138.png 1 602 265 115 121
+positive/dataset_2_img139.png 1 615 273 127 134
+positive/dataset_2_img14.png 2 12 362 175 188 194 219 72 63
+positive/dataset_2_img140.png 1 627 291 127 121
+positive/dataset_2_img141.png 1 651 286 129 130
+positive/dataset_2_img142.png 1 647 206 134 132
+positive/dataset_2_img143.png 1 689 250 133 142
+positive/dataset_2_img144.png 1 718 309 170 171
+positive/dataset_2_img146.png 1 794 327 162 193
+positive/dataset_2_img147.png 1 813 348 146 189
+positive/dataset_2_img148.png 1 834 294 124 194
+positive/dataset_2_img15.png 2 3 301 192 200 187 154 68 68
+positive/dataset_2_img16.png 1 175 198 63 65
+positive/dataset_2_img17.png 1 161 231 66 67
+positive/dataset_2_img18.png 1 142 239 67 73
+positive/dataset_2_img180.png 1 1 461 148 233
+positive/dataset_2_img181.png 1 9 373 230 213
+positive/dataset_2_img182.png 1 82 337 193 192
+positive/dataset_2_img183.png 1 77 329 190 186
+positive/dataset_2_img184.png 1 77 393 199 184
+positive/dataset_2_img185.png 1 145 322 169 157
+positive/dataset_2_img186.png 1 207 269 133 145
+positive/dataset_2_img187.png 1 197 281 133 124
+positive/dataset_2_img188.png 1 204 275 125 125
+positive/dataset_2_img189.png 1 200 332 135 123
+positive/dataset_2_img19.png 1 132 240 73 70
+positive/dataset_2_img190.png 1 232 263 116 106
+positive/dataset_2_img191.png 1 882 228 75 88
+positive/dataset_2_img192.png 2 265 241 98 91 869 222 87 92
+positive/dataset_2_img193.png 2 282 281 99 105 885 263 74 93
+positive/dataset_2_img194.png 3 333 268 92 95 8 354 180 188 895 253 64 90
+positive/dataset_2_img195.png 3 101 291 147 146 350 225 86 83 872 208 78 84
+positive/dataset_2_img196.png 3 118 273 135 132 358 218 77 76 854 203 68 72
+positive/dataset_2_img197.png 3 106 262 132 132 346 216 77 73 830 192 74 80
+positive/dataset_2_img198.png 3 100 255 132 131 340 211 71 82 822 196 68 69
+positive/dataset_2_img199.png 3 107 323 122 133 339 273 78 80 817 255 75 74
+positive/dataset_2_img2.png 3 68 246 67 64 258 279 97 90 267 221 47 48
+positive/dataset_2_img20.png 1 134 222 76 77
+positive/dataset_2_img200.png 4 126 250 119 119 336 213 74 73 772 187 76 81 880 262 79 124
+positive/dataset_2_img203.png 4 182 231 100 101 355 202 64 65 754 187 64 65 814 236 116 117
+positive/dataset_2_img205.png 4 214 243 93 92 355 218 69 66 747 203 71 68 790 241 119 116
+positive/dataset_2_img206.png 4 227 223 90 81 364 199 60 61 723 191 60 59 760 226 93 95
+positive/dataset_2_img207.png 4 227 222 85 81 362 194 63 63 712 186 57 57 738 221 88 92
+positive/dataset_2_img208.png 4 237 215 85 80 363 196 63 58 708 184 59 59 723 221 92 92
+positive/dataset_2_img209.png 4 236 207 85 81 365 190 60 60 712 174 58 65 730 212 89 89
+positive/dataset_2_img21.png 1 121 165 72 68
+positive/dataset_2_img210.png 4 241 252 85 80 366 233 63 57 703 222 54 56 721 259 81 78
+positive/dataset_2_img211.png 4 264 213 70 77 693 221 77 77 692 194 49 49 371 198 53 49
+positive/dataset_2_img212.png 4 278 203 66 74 380 193 48 53 686 184 50 48 688 217 79 73
+positive/dataset_2_img213.png 4 268 197 80 70 378 181 51 55 676 177 53 48 679 205 72 67
+positive/dataset_2_img214.png 3 280 201 68 65 386 186 45 51 686 203 68 75
+positive/dataset_2_img215.png 3 288 227 70 72 391 223 44 47 679 234 73 72
+positive/dataset_2_img216.png 4 2 321 130 149 301 199 62 63 387 189 53 51 665 203 68 69
+positive/dataset_2_img217.png 4 7 302 141 140 300 187 62 66 390 182 49 48 650 189 71 70
+positive/dataset_2_img218.png 4 9 288 152 137 295 186 64 69 377 175 66 64 632 188 77 67
+positive/dataset_2_img219.png 4 12 284 140 136 300 191 62 58 386 180 50 53 634 192 73 68
+positive/dataset_2_img22.png 1 93 229 95 83
+positive/dataset_2_img220.png 4 112 281 145 142 341 188 61 61 419 181 42 47 685 192 60 63
+positive/dataset_2_img222.png 5 376 276 146 127 437 186 64 60 496 177 48 45 765 173 41 42 796 183 66 67
+positive/dataset_2_img224.png 5 421 245 140 122 822 142 59 56 783 125 41 44 457 141 59 52 504 129 48 46
+positive/dataset_2_img225.png 5 412 336 166 152 458 198 62 59 513 185 41 41 794 177 48 49 848 200 60 59
+positive/dataset_2_img226.png 5 365 393 202 187 444 212 70 61 507 194 43 43 797 189 51 43 857 211 69 65
+positive/dataset_2_img227.png 5 366 427 211 198 448 214 63 58 506 194 51 49 806 182 52 50 872 212 72 66
+positive/dataset_2_img228.png 5 359 374 217 201 445 166 66 60 504 151 43 44 807 144 50 50 871 169 73 70
+positive/dataset_2_img229.png 5 382 460 274 238 461 193 66 71 509 183 56 50 825 171 51 52 904 200 55 71
+positive/dataset_2_img23.png 1 72 243 83 72
+positive/dataset_2_img230.png 3 467 210 80 82 525 197 53 50 861 182 50 56
+positive/dataset_2_img231.png 3 455 215 79 79 519 202 48 49 862 188 50 52
+positive/dataset_2_img232.png 3 435 220 77 75 504 203 52 48 854 190 48 53
+positive/dataset_2_img233.png 3 426 153 82 82 493 140 61 54 847 130 55 51
+positive/dataset_2_img234.png 3 431 204 85 84 504 189 55 54 867 176 54 56
+positive/dataset_2_img235.png 3 438 226 90 94 512 198 58 66 903 192 54 61
+positive/dataset_2_img236.png 3 417 236 105 105 503 212 64 65 904 198 53 62
+positive/dataset_2_img237.png 3 428 241 96 99 508 216 66 60 907 201 51 64
+positive/dataset_2_img238.png 2 424 185 106 104 506 159 70 69
+positive/dataset_2_img239.png 2 421 250 115 111 511 216 73 73
+positive/dataset_2_img24.png 1 67 242 80 79
+positive/dataset_2_img240.png 2 410 251 133 124 510 218 84 71
+positive/dataset_2_img241.png 2 414 256 137 133 520 204 81 86
+positive/dataset_2_img242.png 2 399 252 134 139 511 216 75 73
+positive/dataset_2_img243.png 2 386 188 137 140 498 150 78 79
+positive/dataset_2_img244.png 2 369 290 158 152 509 231 84 81
+positive/dataset_2_img245.png 2 342 325 196 190 511 228 90 96
+positive/dataset_2_img246.png 2 343 334 203 212 512 232 96 106
+positive/dataset_2_img247.png 2 349 346 212 207 516 235 94 100
+positive/dataset_2_img248.png 2 409 310 228 223 544 191 100 101
+positive/dataset_2_img249.png 2 373 431 303 286 560 261 102 103
+positive/dataset_2_img25.png 1 67 238 78 79
+positive/dataset_2_img250.png 1 543 268 115 114
+positive/dataset_2_img251.png 1 524 279 120 120
+positive/dataset_2_img252.png 1 527 282 127 120
+positive/dataset_2_img253.png 1 530 222 122 124
+positive/dataset_2_img254.png 1 544 309 142 144
+positive/dataset_2_img255.png 1 557 346 167 163
+positive/dataset_2_img256.png 1 553 356 186 180
+positive/dataset_2_img257.png 1 553 370 185 182
+positive/dataset_2_img258.png 1 540 301 187 179
+positive/dataset_2_img259.png 1 575 416 234 234
+positive/dataset_2_img26.png 1 60 171 78 72
+positive/dataset_2_img260.png 1 625 497 318 220
+
+positive/dataset_2_img27.png 1 57 201 95 90
+positive/dataset_2_img28.png 1 17 257 99 89
+positive/dataset_2_img29.png 1 0 270 78 102
+positive/dataset_2_img295.png 1 862 251 94 115
+positive/dataset_2_img296.png 1 840 262 111 115
+positive/dataset_2_img297.png 1 832 325 120 119
+positive/dataset_2_img298.png 1 796 292 104 99
+positive/dataset_2_img299.png 1 766 241 97 100
+positive/dataset_2_img3.png 3 251 222 94 85 258 154 50 51 56 180 71 72
+positive/dataset_2_img300.png 1 759 230 92 89
+positive/dataset_2_img301.png 1 753 229 90 82
+positive/dataset_2_img302.png 1 765 281 90 85
+positive/dataset_2_img303.png 2 745 235 81 76 829 288 129 155
+positive/dataset_2_img304.png 2 717 217 81 72 790 272 131 135
+positive/dataset_2_img306.png 2 710 256 125 123 689 216 69 70
+positive/dataset_2_img307.png 2 692 215 71 68 725 255 122 121
+positive/dataset_2_img308.png 2 687 272 76 71 728 311 116 124
+positive/dataset_2_img309.png 2 683 234 113 112 665 200 68 69
+positive/dataset_2_img310.png 1 659 225 102 92
+positive/dataset_2_img311.png 1 646 219 97 95
+positive/dataset_2_img312.png 1 657 222 91 91
+positive/dataset_2_img313.png 1 650 282 99 92
+positive/dataset_2_img314.png 1 627 223 89 84
+positive/dataset_2_img315.png 1 617 222 80 79
+positive/dataset_2_img316.png 1 610 217 82 74
+positive/dataset_2_img317.png 1 610 215 78 77
+positive/dataset_2_img318.png 1 608 287 82 79
+positive/dataset_2_img319.png 1 608 220 70 71
+positive/dataset_2_img320.png 1 593 203 72 70
+positive/dataset_2_img321.png 1 582 199 74 69
+positive/dataset_2_img322.png 2 599 194 66 66 897 171 49 52
+positive/dataset_2_img324.png 2 623 227 67 65 915 210 41 47
+positive/dataset_2_img325.png 3 821 291 136 131 883 176 41 41 602 195 59 53
+positive/dataset_2_img326.png 3 590 188 55 53 872 168 42 43 777 275 126 125
+positive/dataset_2_img327.png 3 748 262 120 121 861 166 40 43 586 179 55 53
+positive/dataset_2_img328.png 3 744 259 119 123 863 170 38 38 581 188 54 49
+positive/dataset_2_img329.png 3 824 273 127 112 889 170 35 44 617 188 52 53
+positive/dataset_2_img330.png 1 679 177 61 60
+positive/dataset_2_img331.png 1 714 184 55 57
+positive/dataset_2_img332.png 1 722 192 56 53
+positive/dataset_2_img333.png 1 718 130 61 52
+positive/dataset_2_img334.png 1 728 185 73 68
+positive/dataset_2_img335.png 1 749 198 70 61
+positive/dataset_2_img336.png 1 779 197 64 59
+positive/dataset_2_img338.png 2 819 191 69 62 776 175 51 54
+positive/dataset_2_img339.png 2 848 199 74 74 788 182 54 53
+positive/dataset_2_img4.png 3 31 242 78 80 221 297 106 92 254 223 49 49
+positive/dataset_2_img5.png 3 198 301 114 113 8 252 64 79 243 219 54 54
+positive/dataset_2_img6.png 3 179 306 117 120 235 219 60 54 2 255 57 79
+positive/dataset_2_img68.png 1 60 429 267 233
+positive/dataset_2_img69.png 1 153 374 218 210
+positive/dataset_2_img7.png 2 166 300 134 128 233 217 58 57
+positive/dataset_2_img70.png 1 168 359 206 203
+positive/dataset_2_img71.png 1 160 370 206 181
+positive/dataset_2_img72.png 1 178 420 201 172
+positive/dataset_2_img73.png 1 242 326 152 141
+positive/dataset_2_img74.png 1 241 314 149 126
+positive/dataset_2_img75.png 1 244 300 134 119
+positive/dataset_2_img76.png 1 224 293 142 125
+positive/dataset_2_img77.png 1 236 331 132 118
+positive/dataset_2_img78.png 1 239 271 120 104
+positive/dataset_2_img79.png 1 259 255 103 103
+positive/dataset_2_img8.png 2 178 302 134 125 242 213 54 56
+positive/dataset_2_img80.png 1 276 249 102 102
+positive/dataset_2_img81.png 1 274 290 98 98
+positive/dataset_2_img82.png 1 295 260 88 94
+positive/dataset_2_img83.png 1 307 228 94 85
+positive/dataset_2_img84.png 1 313 228 83 79
+positive/dataset_2_img85.png 1 331 224 80 84
+positive/dataset_2_img86.png 1 341 301 80 74
+positive/dataset_2_img87.png 2 354 238 74 69 4 332 144 140
+positive/dataset_2_img88.png 2 349 218 70 63 50 285 128 128
+positive/dataset_2_img89.png 3 65 280 118 116 343 218 72 66 767 452 190 258
+positive/dataset_2_img9.png 1 177 261 127 119
+positive/dataset_2_img90.png 3 72 269 122 118 354 213 59 60 757 412 199 274
+positive/dataset_2_img91.png 3 104 311 119 118 360 252 67 60 768 444 190 250
+positive/dataset_2_img92.png 3 705 337 171 198 153 243 107 112 369 204 66 67
+positive/dataset_2_img94.png 3 161 247 95 96 359 200 62 61 621 314 151 155
+positive/dataset_2_img97.png 4 223 231 83 85 45 201 66 72 386 195 63 59 636 287 134 131
+positive/dataset_2_img98.png 4 387 188 55 59 618 269 123 122 235 227 76 76 65 211 55 49
+positive/dataset_3_img1.png 4 501 218 85 91 402 174 47 44 132 182 53 47 26 190 60 55
+positive/dataset_3_img10.png 3 545 234 129 129 394 172 56 50 53 178 68 55
+positive/dataset_3_img100.png 2 555 197 81 82 1 220 84 101
+positive/dataset_3_img101.png 2 2 218 93 93 555 198 77 78
+positive/dataset_3_img102.png 2 553 200 69 76 11 222 99 94
+positive/dataset_3_img103.png 2 12 228 106 100 561 218 66 67
+positive/dataset_3_img104.png 2 45 264 91 85 560 249 66 67
+positive/dataset_3_img105.png 2 70 213 92 80 546 198 64 70
+positive/dataset_3_img106.png 2 104 206 78 80 553 189 59 70
+positive/dataset_3_img107.png 2 116 199 82 76 551 192 58 63
+positive/dataset_3_img108.png 2 116 198 79 77 553 184 60 64
+positive/dataset_3_img109.png 2 133 253 75 75 562 245 53 60
+positive/dataset_3_img11.png 3 556 237 133 136 393 174 57 52 50 177 66 61
+positive/dataset_3_img110.png 2 153 194 70 70 542 180 61 64
+positive/dataset_3_img111.png 3 164 191 69 67 546 183 50 52 1 207 82 88
+positive/dataset_3_img112.png 3 2 202 92 93 167 193 68 59 542 182 50 53
+positive/dataset_3_img113.png 3 5 200 87 87 175 188 62 61 543 182 45 48
+positive/dataset_3_img114.png 3 182 245 61 62 543 240 50 55 12 258 85 86
+positive/dataset_3_img115.png 3 55 192 79 82 194 188 55 52 535 178 50 53
+positive/dataset_3_img116.png 3 76 192 71 73 201 187 61 57 530 178 53 48
+positive/dataset_3_img117.png 3 88 195 69 63 209 182 54 54 528 178 50 47
+positive/dataset_3_img118.png 3 89 193 70 66 210 182 59 55 525 174 52 49
+positive/dataset_3_img119.png 3 100 248 65 75 215 241 58 58 533 235 47 52
+positive/dataset_3_img120.png 4 114 189 67 64 230 182 58 53 523 175 48 46 843 237 112 106
+positive/dataset_3_img121.png 4 801 226 115 109 521 177 51 46 235 186 51 46 134 196 60 56
+positive/dataset_3_img122.png 4 142 189 59 54 240 181 53 55 525 174 42 45 800 235 102 92
+positive/dataset_3_img123.png 4 144 185 56 61 242 177 50 49 522 171 44 45 797 226 100 97
+positive/dataset_3_img124.png 4 844 215 97 111 537 169 44 50 258 177 48 52 159 187 64 63
+positive/dataset_3_img125.png 4 236 183 62 62 188 177 50 44 319 173 49 53 592 168 40 48
+positive/dataset_3_img126.png 4 221 181 41 43 269 187 60 61 344 176 51 56 610 172 47 47
+positive/dataset_3_img127.png 4 231 173 46 56 286 190 64 60 356 181 54 48 623 174 47 44
+positive/dataset_3_img128.png 4 275 126 61 58 348 120 54 47 223 117 50 50 623 110 44 45
+positive/dataset_3_img129.png 4 215 179 49 48 272 190 60 59 348 182 52 49 633 171 45 45
+positive/dataset_3_img13.png 3 555 249 142 141 396 178 54 48 47 179 53 54
+positive/dataset_3_img130.png 4 197 179 52 53 248 194 68 65 339 182 51 47 643 171 42 46
+positive/dataset_3_img131.png 4 241 198 66 63 329 185 57 53 643 177 41 44 193 188 47 50
+positive/dataset_3_img132.png 4 232 145 67 64 324 134 55 48 635 124 49 49 185 134 46 48
+positive/dataset_3_img133.png 4 174 198 52 51 220 213 71 66 325 201 55 52 646 188 46 50
+positive/dataset_3_img134.png 4 197 207 79 79 316 197 55 56 656 184 49 54 154 196 55 50
+positive/dataset_3_img135.png 4 141 195 60 61 186 210 80 88 303 197 63 57 660 186 47 50
+positive/dataset_3_img136.png 4 660 192 47 48 304 203 60 55 180 218 79 73 135 199 66 60
+positive/dataset_3_img137.png 4 126 168 60 60 161 188 83 74 661 160 48 49 295 168 64 62
+positive/dataset_3_img138.png 4 288 204 70 68 681 195 55 57 107 206 72 62 131 225 111 96
+positive/dataset_3_img139.png 4 110 236 104 90 88 207 73 71 275 209 76 74 682 197 59 63
+positive/dataset_3_img14.png 3 560 254 140 137 398 179 57 51 42 183 62 59
+positive/dataset_3_img140.png 3 100 238 98 97 271 212 74 71 689 201 56 59
+positive/dataset_3_img141.png 3 90 240 112 104 270 215 71 72 691 202 57 60
+positive/dataset_3_img142.png 3 74 189 116 108 257 162 82 79 693 150 61 65
+positive/dataset_3_img143.png 3 243 224 89 80 720 206 63 65 4 257 140 128
+positive/dataset_3_img144.png 3 234 232 89 85 728 211 68 70 1 274 122 132
+positive/dataset_3_img145.png 4 232 238 84 80 734 210 69 68 1 280 110 143 2 233 79 78
+positive/dataset_3_img146.png 4 225 168 93 87 735 149 64 67 2 163 81 83 1 213 93 132
+positive/dataset_3_img147.png 2 206 228 104 93 749 210 71 72
+positive/dataset_3_img148.png 2 182 249 109 106 784 224 76 80
+positive/dataset_3_img149.png 2 163 250 118 118 791 227 81 87
+positive/dataset_3_img15.png 3 567 262 131 127 399 181 46 45 42 185 63 57
+positive/dataset_3_img150.png 2 153 256 124 115 798 221 86 87
+positive/dataset_3_img151.png 2 154 251 117 116 793 229 78 85
+positive/dataset_3_img152.png 2 130 232 131 118 804 196 87 93
+positive/dataset_3_img153.png 2 74 283 154 143 860 242 92 94
+positive/dataset_3_img154.png 2 21 296 175 165 879 240 80 110
+positive/dataset_3_img155.png 1 3 294 180 178
+positive/dataset_3_img157.png 1 0 305 135 183
+positive/dataset_3_img16.png 3 565 261 132 140 394 180 56 48 50 191 54 56
+positive/dataset_3_img17.png 3 564 266 133 143 402 186 43 49 48 196 58 52
+positive/dataset_3_img18.png 3 44 187 60 63 397 187 53 49 553 271 149 140
+positive/dataset_3_img19.png 3 556 263 146 145 396 185 55 57 48 192 62 59
+positive/dataset_3_img191.png 1 462 409 296 300
+positive/dataset_3_img192.png 1 470 375 277 266
+positive/dataset_3_img193.png 1 490 388 288 302
+positive/dataset_3_img194.png 1 489 365 225 218
+positive/dataset_3_img195.png 2 490 293 172 175 13 275 152 147
+positive/dataset_3_img196.png 2 43 253 144 145 482 268 166 163
+positive/dataset_3_img197.png 2 65 265 132 122 484 275 155 145
+positive/dataset_3_img198.png 2 54 325 147 127 477 336 169 155
+positive/dataset_3_img199.png 3 240 393 316 307 484 252 135 131 115 246 119 108
+positive/dataset_3_img2.png 4 23 184 58 60 140 186 41 45 402 177 45 44 499 222 88 81
+positive/dataset_3_img20.png 3 560 233 154 144 400 141 43 46 28 143 70 63
+positive/dataset_3_img200.png 3 282 331 244 251 148 237 111 99 475 238 122 117
+positive/dataset_3_img201.png 3 150 222 117 102 299 322 214 215 476 228 114 118
+positive/dataset_3_img202.png 3 288 309 215 209 469 234 108 107 159 228 104 93
+positive/dataset_3_img203.png 3 159 224 102 100 473 227 115 122 295 320 216 213
+positive/dataset_3_img204.png 3 300 373 209 197 473 288 112 118 177 286 88 93
+positive/dataset_3_img205.png 3 348 266 153 153 470 216 98 99 201 217 85 80
+positive/dataset_3_img206.png 3 208 202 89 83 353 238 148 150 470 206 92 90
+positive/dataset_3_img207.png 3 352 225 140 149 219 196 78 82 469 201 89 88
+positive/dataset_3_img208.png 4 351 229 145 140 221 193 84 87 463 203 95 88 909 183 50 70
+positive/dataset_3_img209.png 3 221 262 89 82 351 295 146 142 469 265 94 97
+positive/dataset_3_img21.png 3 394 183 61 58 595 304 182 188 9 199 67 64
+positive/dataset_3_img210.png 4 237 227 80 77 370 256 126 132 473 236 84 81 881 213 68 69
+positive/dataset_3_img211.png 4 256 196 78 73 384 228 111 105 471 200 75 78 851 189 61 64
+positive/dataset_3_img212.png 4 269 193 64 67 389 221 102 101 470 194 79 80 843 180 62 68
+positive/dataset_3_img213.png 4 274 189 62 63 397 214 100 101 476 197 66 69 844 180 59 66
+positive/dataset_3_img214.png 4 396 281 109 101 272 258 74 70 478 260 73 73 844 247 57 59
+positive/dataset_3_img215.png 4 405 210 102 98 282 195 67 61 477 191 75 73 820 178 65 65
+positive/dataset_3_img216.png 4 409 204 83 97 297 189 64 64 472 194 70 68 799 178 58 65
+positive/dataset_3_img217.png 4 411 199 83 85 297 181 65 66 473 185 64 66 794 171 56 64
+positive/dataset_3_img218.png 4 295 177 66 64 407 192 76 82 468 179 71 68 789 169 55 61
+positive/dataset_3_img219.png 4 298 240 63 63 411 253 81 80 471 238 67 65 792 233 54 51
+positive/dataset_3_img22.png 3 607 329 208 205 391 189 58 51 1 197 52 63
+positive/dataset_3_img220.png 4 305 181 64 55 409 195 84 79 474 182 61 58 781 173 45 49
+positive/dataset_3_img221.png 4 314 179 59 58 415 195 74 71 474 180 56 59 759 179 51 44
+positive/dataset_3_img222.png 4 316 179 61 55 421 196 72 65 473 180 56 52 757 175 48 43
+positive/dataset_3_img223.png 4 326 179 46 51 420 191 70 68 470 181 56 55 754 171 47 48
+positive/dataset_3_img224.png 4 326 244 57 50 425 255 71 67 475 244 60 54 754 238 48 46
+positive/dataset_3_img225.png 4 427 187 65 62 334 177 46 44 477 177 49 51 741 170 44 48
+positive/dataset_3_img226.png 4 423 182 67 63 337 175 49 47 476 177 48 49 730 169 41 41
+positive/dataset_3_img227.png 4 427 182 64 59 341 174 44 47 472 174 50 52 728 172 36 41
+positive/dataset_3_img228.png 4 426 182 64 59 343 175 44 44 470 174 52 49 726 168 40 46
+positive/dataset_3_img229.png 4 448 182 61 61 355 176 47 46 490 175 50 49 741 170 42 41
+positive/dataset_3_img23.png 2 621 309 226 229 391 185 58 53
+positive/dataset_3_img230.png 3 416 170 44 45 798 166 41 41 525 172 67 65
+positive/dataset_3_img231.png 3 440 169 56 48 559 177 69 61 820 162 46 47
+positive/dataset_3_img232.png 3 567 180 67 66 441 171 61 52 821 165 46 47
+positive/dataset_3_img233.png 3 439 121 55 51 565 131 63 59 825 117 46 44
+positive/dataset_3_img234.png 3 434 172 65 55 568 185 69 63 835 168 43 46
+positive/dataset_3_img235.png 3 438 172 59 56 861 164 42 52 578 182 79 72
+positive/dataset_3_img236.png 3 434 172 63 57 582 181 78 73 869 161 46 59
+positive/dataset_3_img237.png 3 863 130 51 49 429 133 67 61 571 138 84 78
+positive/dataset_3_img238.png 3 426 182 66 61 581 199 79 73 876 176 48 56
+positive/dataset_3_img239.png 3 428 184 71 68 900 183 54 48 586 199 94 83
+positive/dataset_3_img24.png 2 615 296 237 229 378 157 77 73
+positive/dataset_3_img240.png 3 424 192 72 63 599 209 85 80 911 184 47 50
+positive/dataset_3_img241.png 3 424 194 67 59 597 209 93 77 911 181 47 54
+positive/dataset_3_img242.png 3 421 130 67 66 586 145 92 82 916 128 43 52
+positive/dataset_3_img243.png 2 605 214 104 96 420 198 71 68
+positive/dataset_3_img244.png 2 423 205 67 65 631 223 97 101
+positive/dataset_3_img245.png 2 415 206 78 74 626 228 115 102
+positive/dataset_3_img246.png 2 410 202 82 78 626 229 115 113
+positive/dataset_3_img247.png 2 407 146 82 75 620 165 120 110
+positive/dataset_3_img248.png 2 411 211 80 80 661 250 127 116
+positive/dataset_3_img249.png 2 400 221 90 83 678 256 132 135
+positive/dataset_3_img25.png 2 631 341 298 271 379 169 67 62
+positive/dataset_3_img250.png 3 384 218 106 97 678 274 148 126 661 228 95 89
+positive/dataset_3_img251.png 2 397 214 95 98 694 263 141 143
+positive/dataset_3_img252.png 3 385 165 100 93 689 209 144 145 667 171 97 97
+positive/dataset_3_img253.png 3 386 228 102 97 694 237 114 106 734 280 183 187
+positive/dataset_3_img254.png 3 385 243 103 99 716 253 118 113 798 321 161 208
+positive/dataset_3_img255.png 3 379 248 110 96 725 252 117 115 827 331 130 231
+positive/dataset_3_img256.png 2 380 242 105 107 736 250 119 126
+positive/dataset_3_img257.png 3 381 248 98 100 732 250 116 114 832 330 126 233
+positive/dataset_3_img259.png 2 359 264 130 129 819 272 140 157
+positive/dataset_3_img26.png 1 381 184 63 66
+positive/dataset_3_img260.png 1 353 275 141 134
+positive/dataset_3_img261.png 1 344 281 154 143
+positive/dataset_3_img262.png 1 350 216 149 143
+positive/dataset_3_img263.png 1 320 302 180 172
+positive/dataset_3_img264.png 1 304 348 200 204
+positive/dataset_3_img265.png 1 293 357 223 241
+positive/dataset_3_img266.png 1 282 367 231 234
+positive/dataset_3_img267.png 1 269 299 232 239
+positive/dataset_3_img268.png 1 173 477 355 240
+positive/dataset_3_img27.png 1 377 195 67 62
+positive/dataset_3_img28.png 1 376 192 69 62
+positive/dataset_3_img29.png 1 375 173 65 69
+positive/dataset_3_img3.png 4 500 153 83 80 402 111 43 44 128 117 46 46 15 118 60 65
+positive/dataset_3_img30.png 1 372 190 66 67
+positive/dataset_3_img300.png 1 753 269 146 164
+positive/dataset_3_img301.png 1 732 262 128 141
+positive/dataset_3_img302.png 1 720 247 121 140
+positive/dataset_3_img303.png 1 718 301 137 156
+positive/dataset_3_img304.png 1 692 246 110 121
+positive/dataset_3_img305.png 1 660 229 103 109
+positive/dataset_3_img306.png 1 652 224 101 101
+positive/dataset_3_img307.png 1 644 220 100 101
+positive/dataset_3_img308.png 1 646 278 105 108
+positive/dataset_3_img309.png 1 622 230 97 92
+positive/dataset_3_img31.png 1 368 203 78 69
+positive/dataset_3_img310.png 1 603 198 104 99
+positive/dataset_3_img311.png 2 593 205 85 84 889 205 70 98
+positive/dataset_3_img312.png 2 594 204 83 83 880 206 78 94
+positive/dataset_3_img313.png 2 595 271 82 82 888 270 70 95
+positive/dataset_3_img314.png 2 584 197 83 83 846 204 82 90
+positive/dataset_3_img315.png 2 577 191 76 77 825 198 72 83
+positive/dataset_3_img316.png 2 581 191 64 73 810 190 75 83
+positive/dataset_3_img317.png 3 565 184 86 76 807 192 71 80 882 209 77 106
+positive/dataset_3_img318.png 3 569 248 85 81 808 258 74 80 890 270 69 110
+positive/dataset_3_img319.png 3 568 200 74 74 784 209 71 68 851 222 81 90
+positive/dataset_3_img32.png 1 362 200 82 73
+positive/dataset_3_img320.png 3 556 178 67 70 760 184 62 69 805 199 77 87
+positive/dataset_3_img321.png 3 551 178 66 71 744 186 66 65 788 200 80 83
+positive/dataset_3_img322.png 3 553 173 66 65 742 172 71 74 787 193 77 83
+positive/dataset_3_img323.png 3 549 233 75 71 742 234 72 71 787 249 79 82
+positive/dataset_3_img324.png 3 552 182 56 55 728 180 55 58 759 190 79 80
+positive/dataset_3_img325.png 2 543 178 57 61 734 193 71 71
+positive/dataset_3_img326.png 2 539 181 57 54 727 189 72 69
+positive/dataset_3_img327.png 2 534 174 69 59 720 186 75 70
+positive/dataset_3_img328.png 2 535 219 69 67 717 228 75 80
+positive/dataset_3_img329.png 4 75 405 291 260 527 176 66 62 704 182 61 73 918 172 40 49
+positive/dataset_3_img33.png 1 358 198 88 82
+positive/dataset_3_img330.png 4 144 353 235 228 526 173 66 58 904 162 41 58 684 184 72 66
+positive/dataset_3_img331.png 4 161 345 219 190 520 165 66 63 675 180 70 65 890 162 50 54
+positive/dataset_3_img332.png 4 523 171 61 58 676 181 60 63 889 172 47 43 155 327 220 208
+positive/dataset_3_img333.png 4 316 329 214 210 545 166 67 61 708 171 68 68 915 163 44 55
+positive/dataset_3_img335.png 4 712 337 196 196 631 175 56 46 821 182 54 55 785 176 48 50
+positive/dataset_3_img336.png 4 737 327 213 226 826 183 62 56 644 178 46 42 793 172 45 51
+positive/dataset_3_img337.png 4 748 305 198 209 838 136 53 57 642 129 50 45 789 124 55 54
+positive/dataset_3_img338.png 3 654 170 55 55 869 176 61 63 823 172 49 55
+positive/dataset_3_img339.png 3 659 175 57 49 830 175 57 56 889 180 65 71
+positive/dataset_3_img34.png 1 358 206 87 76
+positive/dataset_3_img340.png 3 661 174 58 51 898 186 61 64 836 176 57 58
+positive/dataset_3_img341.png 3 661 132 57 57 841 135 53 57 902 143 55 72
+positive/dataset_3_img342.png 2 675 174 64 61 871 173 60 67
+positive/dataset_3_img343.png 2 695 182 57 60 890 184 63 63
+positive/dataset_3_img344.png 2 700 197 58 57 905 193 53 71
+positive/dataset_3_img345.png 2 690 181 71 65 899 180 59 68
+positive/dataset_3_img346.png 1 699 152 63 72
+positive/dataset_3_img347.png 1 735 186 61 73
+positive/dataset_3_img348.png 1 741 200 63 71
+positive/dataset_3_img349.png 1 741 206 69 67
+positive/dataset_3_img35.png 1 352 178 81 81
+positive/dataset_3_img350.png 1 738 147 77 79
+positive/dataset_3_img351.png 1 758 208 87 85
+positive/dataset_3_img352.png 1 794 212 85 89
+positive/dataset_3_img353.png 1 800 212 88 89
+positive/dataset_3_img354.png 1 805 213 89 89
+positive/dataset_3_img355.png 1 804 168 99 91
+positive/dataset_3_img356.png 1 849 232 102 101
+positive/dataset_3_img357.png 1 874 234 84 111
+positive/dataset_3_img36.png 1 347 225 91 84
+positive/dataset_3_img37.png 1 341 236 90 92
+positive/dataset_3_img38.png 1 323 225 102 106
+positive/dataset_3_img39.png 1 321 233 94 91
+positive/dataset_3_img4.png 4 499 217 109 94 397 170 47 45 120 179 43 43 2 178 52 62
+positive/dataset_3_img40.png 1 306 193 101 89
+positive/dataset_3_img41.png 1 300 233 112 98
+positive/dataset_3_img42.png 1 282 238 113 101
+positive/dataset_3_img43.png 1 278 233 124 119
+positive/dataset_3_img44.png 1 265 237 134 113
+positive/dataset_3_img46.png 1 249 228 132 127
+positive/dataset_3_img47.png 1 227 276 155 160
+positive/dataset_3_img48.png 1 214 302 162 158
+positive/dataset_3_img49.png 1 203 302 176 172
+positive/dataset_3_img5.png 3 514 209 100 102 401 167 48 49 102 174 53 48
+positive/dataset_3_img50.png 1 186 307 174 168
+positive/dataset_3_img51.png 1 166 236 187 188
+positive/dataset_3_img52.png 1 92 350 242 217
+positive/dataset_3_img53.png 1 14 370 304 290
+positive/dataset_3_img54.png 1 3 389 304 314
+positive/dataset_3_img55.png 1 2 384 284 332
+positive/dataset_3_img56.png 1 6 320 270 368
+positive/dataset_3_img6.png 3 405 167 48 46 526 210 104 107 101 169 54 57
+positive/dataset_3_img7.png 3 511 208 119 113 398 175 55 44 93 173 57 58
+positive/dataset_3_img8.png 3 510 155 116 111 394 105 52 51 85 111 64 59
+positive/dataset_3_img83.png 1 700 308 175 190
+positive/dataset_3_img84.png 1 650 295 164 166
+positive/dataset_3_img85.png 1 637 280 161 161
+positive/dataset_3_img86.png 1 622 270 164 165
+positive/dataset_3_img87.png 1 648 322 155 160
+positive/dataset_3_img88.png 1 629 290 140 143
+positive/dataset_3_img89.png 1 593 247 127 137
+positive/dataset_3_img9.png 1 523 229 125 115
+positive/dataset_3_img90.png 1 591 235 113 122
+positive/dataset_3_img91.png 1 586 223 111 126
+positive/dataset_3_img92.png 1 587 225 122 118
+positive/dataset_3_img93.png 1 585 286 110 112
+positive/dataset_3_img94.png 1 570 210 98 111
+positive/dataset_3_img95.png 1 567 210 98 98
+positive/dataset_3_img96.png 1 565 210 94 89
+positive/dataset_3_img97.png 1 567 204 88 89
+positive/dataset_3_img98.png 1 570 270 94 86
+positive/dataset_3_img99.png 1 557 198 86 87
+positive/dataset_4_img1.png 4 520 243 82 75 443 187 47 48 181 197 50 47 79 202 55 56
+positive/dataset_4_img10.png 3 629 291 150 131 464 198 54 48 131 197 62 59
+positive/dataset_4_img100.png 4 462 189 64 67 811 172 50 52 522 182 56 55 384 174 48 51
+positive/dataset_4_img101.png 4 451 207 86 79 378 193 63 53 519 195 66 58 828 184 60 57
+positive/dataset_4_img102.png 4 453 207 90 81 375 188 55 68 522 195 64 64 839 187 57 57
+positive/dataset_4_img103.png 4 447 209 88 83 372 198 58 55 522 199 66 64 849 190 52 54
+positive/dataset_4_img104.png 4 445 150 91 88 369 141 57 56 524 143 66 64 853 137 53 55
+positive/dataset_4_img105.png 4 362 204 71 67 443 220 100 96 521 205 71 72 868 199 57 62
+positive/dataset_4_img106.png 4 452 233 92 94 361 212 64 67 529 212 72 73 892 204 55 67
+positive/dataset_4_img107.png 4 354 213 62 66 445 234 96 106 532 218 68 73 903 208 56 57
+positive/dataset_4_img108.png 4 452 233 97 96 360 211 62 71 534 212 73 76 902 203 56 62
+positive/dataset_4_img109.png 4 351 152 73 66 452 177 96 94 531 152 83 76 910 149 49 59
+positive/dataset_4_img11.png 3 622 290 164 133 461 189 50 60 126 200 62 52
+positive/dataset_4_img110.png 3 351 226 68 66 445 246 115 110 538 222 89 85
+positive/dataset_4_img111.png 3 341 235 75 68 437 268 126 110 542 236 87 86
+positive/dataset_4_img112.png 3 341 239 70 72 438 282 120 115 540 242 92 86
+positive/dataset_4_img113.png 3 332 234 82 81 431 273 127 119 539 228 90 100
+positive/dataset_4_img114.png 3 330 181 81 79 435 227 126 120 539 182 92 95
+positive/dataset_4_img115.png 3 315 238 90 92 432 304 136 142 554 253 100 97
+positive/dataset_4_img116.png 3 308 249 88 90 417 317 161 164 553 260 111 105
+positive/dataset_4_img117.png 3 405 334 180 165 301 248 88 97 557 264 111 106
+positive/dataset_4_img118.png 3 296 256 88 92 405 328 173 174 558 259 110 111
+positive/dataset_4_img119.png 3 415 329 172 180 304 245 92 100 567 254 109 118
+positive/dataset_4_img12.png 3 656 225 137 143 465 126 53 51 127 130 65 61
+positive/dataset_4_img120.png 3 421 289 165 163 296 195 102 96 566 207 103 112
+positive/dataset_4_img121.png 3 278 276 114 98 394 381 218 221 569 276 136 138
+positive/dataset_4_img122.png 3 381 471 246 239 584 307 134 128 257 284 119 113
+positive/dataset_4_img123.png 3 244 285 121 113 591 316 140 134 365 481 280 236
+positive/dataset_4_img124.png 3 253 288 136 108 599 304 140 133 381 472 283 243
+positive/dataset_4_img125.png 3 383 407 272 258 256 227 116 98 609 244 122 133
+positive/dataset_4_img126.png 2 243 298 119 122 619 320 159 154
+positive/dataset_4_img127.png 2 209 315 146 144 660 338 192 202
+positive/dataset_4_img128.png 2 186 326 155 139 698 361 199 214
+positive/dataset_4_img129.png 2 176 331 159 150 703 362 208 235
+positive/dataset_4_img13.png 3 721 321 166 164 477 194 53 52 129 197 56 56
+positive/dataset_4_img130.png 2 162 274 164 165 703 329 215 214
+positive/dataset_4_img131.png 1 78 402 213 211
+positive/dataset_4_img132.png 1 0 437 250 269
+positive/dataset_4_img133.png 1 1 480 221 238
+positive/dataset_4_img134.png 1 0 466 216 253
+positive/dataset_4_img14.png 3 789 359 168 186 483 189 54 61 115 202 55 52
+positive/dataset_4_img145.png 1 623 474 271 243
+positive/dataset_4_img146.png 1 584 427 244 254
+positive/dataset_4_img147.png 1 612 438 223 243
+positive/dataset_4_img148.png 1 597 454 211 220
+positive/dataset_4_img149.png 1 558 344 167 165
+positive/dataset_4_img15.png 3 484 196 53 57 93 199 69 60 789 356 170 210
+positive/dataset_4_img150.png 1 553 311 137 156
+positive/dataset_4_img151.png 1 533 298 148 141
+positive/dataset_4_img152.png 1 531 337 135 140
+positive/dataset_4_img153.png 1 513 279 127 118
+positive/dataset_4_img154.png 1 514 270 120 114
+positive/dataset_4_img155.png 1 515 260 107 113
+positive/dataset_4_img156.png 1 514 254 106 111
+positive/dataset_4_img157.png 2 524 292 89 99 864 312 92 111
+positive/dataset_4_img158.png 3 508 235 99 89 818 247 100 112 813 329 141 168
+positive/dataset_4_img159.png 3 506 229 93 88 803 245 89 95 787 307 157 156
+positive/dataset_4_img16.png 3 802 381 157 193 477 202 58 49 93 207 62 55
+positive/dataset_4_img160.png 3 513 220 76 83 782 240 106 85 780 299 146 142
+positive/dataset_4_img161.png 3 510 226 79 84 788 238 89 90 772 290 153 162
+positive/dataset_4_img162.png 3 756 337 139 148 769 276 99 97 507 269 91 83
+positive/dataset_4_img163.png 2 502 225 78 75 711 280 122 113
+positive/dataset_4_img164.png 3 708 276 108 104 507 221 78 76 736 231 76 76
+positive/dataset_4_img165.png 2 697 264 104 100 508 217 73 73
+positive/dataset_4_img166.png 2 505 214 84 75 692 252 111 113
+positive/dataset_4_img167.png 2 682 304 108 108 511 269 63 66
+positive/dataset_4_img168.png 2 499 207 72 71 651 242 97 98
+positive/dataset_4_img169.png 2 504 202 61 66 649 236 92 90
+positive/dataset_4_img17.png 2 482 147 64 65 85 152 73 70
+positive/dataset_4_img170.png 2 644 227 89 92 504 205 61 63
+positive/dataset_4_img171.png 2 504 221 67 64 647 249 85 83
+positive/dataset_4_img172.png 2 500 217 65 62 636 243 77 78
+positive/dataset_4_img173.png 3 496 200 60 57 617 226 73 70 661 205 62 58
+positive/dataset_4_img174.png 3 500 194 56 57 616 217 72 69 661 203 54 52
+positive/dataset_4_img175.png 3 609 211 70 72 497 195 58 56 652 198 62 61
+positive/dataset_4_img176.png 3 616 280 69 65 501 253 61 59 660 259 57 58
+positive/dataset_4_img177.png 3 496 207 60 51 606 227 68 64 652 207 57 57
+positive/dataset_4_img178.png 4 594 207 67 63 499 191 48 49 638 189 53 54 918 183 41 53
+positive/dataset_4_img179.png 4 587 192 72 73 500 186 51 49 637 187 60 56 914 180 44 47
+positive/dataset_4_img18.png 2 488 197 81 76 64 210 77 71
+positive/dataset_4_img180.png 4 588 198 66 64 494 184 58 51 635 184 54 56 909 179 48 51
+positive/dataset_4_img181.png 4 591 256 65 69 498 241 56 54 633 246 61 56 910 244 48 45
+positive/dataset_4_img182.png 4 499 189 54 50 583 197 71 69 630 191 53 51 898 188 42 49
+positive/dataset_4_img183.png 4 497 181 49 50 580 193 63 65 621 187 54 50 879 184 39 45
+positive/dataset_4_img184.png 4 580 190 62 60 501 183 44 41 621 184 48 47 865 179 49 46
+positive/dataset_4_img185.png 4 578 188 61 55 497 180 51 42 619 184 47 44 864 176 46 45
+positive/dataset_4_img186.png 4 581 192 66 62 502 184 48 44 626 186 50 47 869 181 46 49
+positive/dataset_4_img19.png 2 497 203 80 75 46 218 87 75
+positive/dataset_4_img196.png 2 619 190 62 54 764 205 77 77
+positive/dataset_4_img197.png 2 621 189 74 70 780 217 80 74
+positive/dataset_4_img198.png 2 628 199 71 62 787 208 83 83
+positive/dataset_4_img199.png 2 621 197 76 71 788 219 87 88
+positive/dataset_4_img2.png 4 517 236 94 89 448 192 42 43 187 198 44 45 73 197 64 65
+positive/dataset_4_img20.png 2 33 212 81 86 494 207 83 79
+positive/dataset_4_img200.png 2 627 158 73 65 792 180 86 82
+positive/dataset_4_img201.png 2 647 210 64 64 828 224 96 94
+positive/dataset_4_img202.png 2 642 208 78 74 840 234 103 99
+positive/dataset_4_img203.png 2 648 213 78 66 851 242 98 98
+positive/dataset_4_img204.png 2 653 214 75 73 861 232 95 102
+positive/dataset_4_img206.png 1 661 210 93 93
+positive/dataset_4_img207.png 1 682 213 78 80
+positive/dataset_4_img208.png 1 683 215 89 82
+positive/dataset_4_img209.png 1 685 220 87 82
+positive/dataset_4_img21.png 2 503 165 76 73 19 172 93 93
+positive/dataset_4_img210.png 1 682 159 90 89
+positive/dataset_4_img211.png 1 699 223 101 98
+positive/dataset_4_img212.png 1 726 239 90 93
+positive/dataset_4_img213.png 1 734 245 90 91
+positive/dataset_4_img214.png 1 742 250 89 88
+positive/dataset_4_img215.png 1 745 247 95 97
+positive/dataset_4_img216.png 1 742 204 98 93
+positive/dataset_4_img217.png 1 783 254 118 114
+positive/dataset_4_img218.png 1 805 265 108 107
+positive/dataset_4_img219.png 1 824 269 111 111
+positive/dataset_4_img22.png 2 516 207 83 80 2 225 92 100
+positive/dataset_4_img23.png 1 534 215 80 78
+positive/dataset_4_img24.png 1 513 214 87 78
+positive/dataset_4_img25.png 1 522 156 80 81
+positive/dataset_4_img259.png 1 898 222 61 79
+positive/dataset_4_img26.png 1 537 218 88 93
+positive/dataset_4_img260.png 1 882 205 76 80
+positive/dataset_4_img261.png 1 874 204 77 85
+positive/dataset_4_img262.png 1 869 205 79 85
+positive/dataset_4_img263.png 1 861 262 83 77
+positive/dataset_4_img264.png 1 837 201 73 78
+positive/dataset_4_img265.png 1 825 198 72 69
+positive/dataset_4_img266.png 1 809 195 88 89
+positive/dataset_4_img267.png 1 812 249 91 86
+positive/dataset_4_img268.png 1 803 219 64 64
+positive/dataset_4_img269.png 1 776 195 79 68
+positive/dataset_4_img27.png 1 549 218 98 104
+positive/dataset_4_img270.png 1 774 190 73 72
+positive/dataset_4_img271.png 1 768 188 66 74
+positive/dataset_4_img272.png 1 771 254 72 68
+positive/dataset_4_img273.png 2 762 201 62 70 361 517 269 201
+positive/dataset_4_img274.png 2 741 193 62 59 384 450 217 170
+positive/dataset_4_img275.png 2 408 408 184 180 740 185 59 63
+positive/dataset_4_img276.png 2 742 194 53 46 415 399 180 167
+positive/dataset_4_img277.png 2 398 458 198 165 736 250 58 57
+positive/dataset_4_img278.png 1 398 357 168 159
+positive/dataset_4_img279.png 3 409 340 139 126 715 190 56 53 848 209 65 61
+positive/dataset_4_img28.png 1 560 222 99 100
+positive/dataset_4_img280.png 3 417 311 130 121 702 179 66 61 836 199 69 62
+positive/dataset_4_img281.png 3 422 299 121 119 706 178 54 57 839 183 63 70
+positive/dataset_4_img282.png 3 418 298 123 127 707 181 55 51 839 185 64 73
+positive/dataset_4_img283.png 3 409 305 151 124 706 179 57 57 843 187 64 76
+positive/dataset_4_img284.png 3 425 291 120 138 708 183 55 53 837 194 73 66
+positive/dataset_4_img285.png 3 422 296 132 130 702 183 66 58 840 195 68 69
+positive/dataset_4_img286.png 3 426 298 123 130 707 189 64 51 834 198 69 60
+positive/dataset_4_img287.png 3 423 313 123 125 713 193 49 48 842 206 61 61
+positive/dataset_4_img288.png 3 418 306 141 126 708 190 52 53 843 204 57 63
+positive/dataset_4_img289.png 3 430 302 128 126 713 189 46 51 840 199 67 66
+positive/dataset_4_img29.png 1 554 227 109 99
+positive/dataset_4_img290.png 3 431 303 122 123 707 189 58 47 839 195 62 66
+positive/dataset_4_img291.png 3 419 298 143 137 706 187 59 53 842 197 67 65
+positive/dataset_4_img292.png 3 424 302 125 123 712 192 57 51 844 204 58 60
+positive/dataset_4_img293.png 3 432 297 120 132 708 188 59 57 848 202 60 64
+positive/dataset_4_img294.png 3 434 299 121 131 707 189 62 55 842 202 70 71
+positive/dataset_4_img295.png 3 436 303 116 116 715 193 54 48 853 204 57 59
+positive/dataset_4_img3.png 4 521 191 96 88 438 135 56 55 181 147 48 48 70 152 55 58
+positive/dataset_4_img30.png 1 561 199 114 118
+positive/dataset_4_img31.png 1 594 258 122 114
+positive/dataset_4_img32.png 1 618 273 136 123
+positive/dataset_4_img33.png 1 627 273 124 127
+positive/dataset_4_img34.png 1 658 212 125 127
+positive/dataset_4_img35.png 1 718 314 165 154
+positive/dataset_4_img36.png 1 770 324 169 179
+positive/dataset_4_img37.png 1 750 341 182 179
+positive/dataset_4_img38.png 1 768 301 182 190
+positive/dataset_4_img4.png 4 544 251 95 99 447 185 56 55 166 194 50 50 49 203 63 60
+positive/dataset_4_img5.png 4 556 264 103 93 450 192 47 45 159 196 55 53 37 203 66 70
+positive/dataset_4_img51.png 1 0 503 230 214
+positive/dataset_4_img52.png 1 84 401 204 208
+positive/dataset_4_img53.png 1 112 364 203 206
+positive/dataset_4_img54.png 1 126 369 206 191
+positive/dataset_4_img55.png 1 112 361 204 188
+positive/dataset_4_img56.png 1 146 382 173 170
+positive/dataset_4_img57.png 1 199 288 164 157
+positive/dataset_4_img58.png 1 237 288 138 134
+positive/dataset_4_img59.png 1 246 284 141 141
+positive/dataset_4_img6.png 4 553 266 107 97 447 192 52 45 159 201 56 51 30 208 61 63
+positive/dataset_4_img60.png 1 229 280 155 133
+positive/dataset_4_img61.png 2 249 321 123 119 1 299 86 123
+positive/dataset_4_img62.png 2 260 257 123 117 866 237 79 83
+positive/dataset_4_img63.png 4 282 258 104 97 840 227 84 82 60 241 98 85 0 320 145 194
+positive/dataset_4_img65.png 4 296 240 97 104 841 216 79 83 56 229 105 100 4 313 160 174
+positive/dataset_4_img66.png 4 27 371 164 155 84 293 85 82 302 301 105 98 836 274 80 88
+positive/dataset_4_img67.png 4 92 282 135 115 114 226 84 81 319 232 91 87 798 212 68 76
+positive/dataset_4_img68.png 3 128 260 122 118 335 223 73 75 789 207 71 69
+positive/dataset_4_img70.png 4 137 251 120 115 339 219 76 72 782 198 78 70 137 206 83 71
+positive/dataset_4_img72.png 3 188 241 107 98 351 218 74 70 755 199 69 68
+positive/dataset_4_img73.png 4 212 245 96 87 186 212 68 58 358 216 66 68 748 202 60 61
+positive/dataset_4_img74.png 4 216 241 99 85 360 211 65 65 744 198 56 66 193 206 69 63
+positive/dataset_4_img75.png 4 194 196 65 65 221 231 99 96 360 207 69 67 733 192 69 61
+positive/dataset_4_img76.png 4 364 270 68 69 734 251 63 64 224 294 95 92 199 269 66 59
+positive/dataset_4_img77.png 4 244 222 81 79 369 202 62 67 719 193 55 56 217 196 59 62
+positive/dataset_4_img78.png 4 228 189 57 62 374 194 60 53 258 214 83 79 712 187 54 60
+positive/dataset_4_img79.png 4 233 182 63 66 370 190 67 59 709 182 54 58 264 204 86 82
+positive/dataset_4_img8.png 4 592 271 110 105 465 193 43 43 157 197 50 46 19 199 68 66
+positive/dataset_4_img80.png 4 707 185 52 52 269 207 71 71 380 192 56 55 234 186 59 58
+positive/dataset_4_img81.png 4 245 251 51 53 387 256 57 52 709 244 50 53 278 270 77 72
+positive/dataset_4_img82.png 4 286 204 72 78 387 193 57 55 695 186 47 54 252 194 55 51
+positive/dataset_4_img83.png 4 299 200 76 69 392 186 56 53 693 183 44 47 265 187 52 50
+positive/dataset_4_img84.png 4 309 195 71 65 270 180 55 53 396 183 54 54 692 177 48 53
+positive/dataset_4_img85.png 4 310 196 73 65 273 183 48 47 397 187 54 51 692 177 48 51
+positive/dataset_4_img86.png 4 312 262 72 67 404 251 54 53 692 241 50 52 277 246 58 54
+positive/dataset_4_img87.png 4 320 253 60 59 402 240 60 54 687 230 51 54 275 234 55 50
+positive/dataset_4_img89.png 4 331 193 57 57 409 188 48 44 674 179 41 48 294 180 46 44
+positive/dataset_4_img9.png 4 617 289 126 131 464 195 55 55 140 198 60 56 1 207 62 74
+positive/dataset_4_img90.png 4 669 180 46 45 410 186 47 48 296 184 50 48 331 188 64 64
+positive/dataset_4_img91.png 4 335 194 62 57 413 188 44 46 665 180 47 44 292 183 49 48
+positive/dataset_4_img92.png 4 397 184 69 67 466 180 49 48 722 175 44 46 344 178 59 50
+positive/dataset_4_img93.png 4 438 185 72 66 380 179 50 44 502 180 49 52 756 177 43 43
+positive/dataset_4_img94.png 4 457 189 74 69 401 186 48 45 767 182 46 40 519 187 53 46
+positive/dataset_4_img95.png 4 402 187 49 43 464 195 62 62 520 186 51 47 775 182 40 44
+positive/dataset_4_img96.png 4 462 173 62 58 396 161 50 46 514 164 62 55 772 159 45 46
+positive/dataset_4_img97.png 4 462 197 73 66 392 188 55 47 519 188 59 57 793 181 45 47
+positive/dataset_4_img98.png 4 456 199 81 75 393 189 51 49 523 195 57 52 803 183 52 53
+positive/dataset_4_img99.png 4 452 199 82 80 386 193 58 49 515 192 69 62 797 183 57 53
+positive/dataset_5_img1.png 4 478 241 93 82 429 200 49 40 173 208 53 40 63 209 60 61
+positive/dataset_5_img10.png 3 491 278 142 129 426 196 54 52 94 202 59 62
+positive/dataset_5_img100.png 4 247 196 57 57 381 198 60 59 684 195 50 50 291 214 75 72
+positive/dataset_5_img101.png 4 291 209 76 78 384 198 57 56 690 192 51 54 250 196 50 55
+positive/dataset_5_img102.png 4 243 136 58 56 289 139 77 82 374 132 67 65 692 134 48 52
+positive/dataset_5_img103.png 4 282 226 76 72 384 208 56 57 241 203 50 58 699 197 57 57
+positive/dataset_5_img104.png 4 268 225 83 85 381 207 61 66 719 200 55 57 221 208 66 61
+positive/dataset_5_img105.png 4 260 230 90 89 372 212 71 69 717 206 56 53 215 209 65 64
+positive/dataset_5_img106.png 4 261 216 82 82 372 198 58 62 711 188 60 60 208 192 68 63
+positive/dataset_5_img107.png 4 247 206 93 81 368 188 68 62 723 178 56 59 204 185 68 61
+positive/dataset_5_img108.png 4 191 219 70 64 361 221 71 72 747 214 57 58 226 249 97 95
+positive/dataset_5_img109.png 4 182 222 71 70 355 228 78 73 753 219 64 54 210 253 102 100
+positive/dataset_5_img11.png 3 486 282 140 127 414 196 59 55 92 205 60 54
+positive/dataset_5_img110.png 4 200 253 106 99 352 227 79 73 763 214 60 60 171 221 78 71
+positive/dataset_5_img111.png 4 194 186 113 104 346 158 85 78 758 148 63 62 166 156 81 69
+positive/dataset_5_img112.png 4 166 260 120 112 353 237 75 71 777 215 73 71 165 226 66 68
+positive/dataset_5_img113.png 4 138 231 79 73 138 279 124 116 337 238 94 83 804 216 75 73
+positive/dataset_5_img114.png 4 341 236 89 87 822 214 77 84 111 281 139 122 121 223 94 85
+positive/dataset_5_img116.png 4 80 272 146 131 332 216 93 90 841 194 76 82 102 206 85 80
+positive/dataset_5_img117.png 4 65 245 100 90 313 249 113 110 2 326 182 182 888 222 70 91
+positive/dataset_5_img118.png 3 306 264 123 115 45 253 100 89 3 343 145 206
+positive/dataset_5_img119.png 3 301 261 116 117 39 256 104 102 1 367 135 207
+positive/dataset_5_img12.png 3 499 292 141 134 417 179 61 61 75 194 59 56
+positive/dataset_5_img120.png 3 296 210 122 112 1 312 132 199 28 189 104 97
+positive/dataset_5_img121.png 2 284 304 129 124 1 278 104 113
+positive/dataset_5_img122.png 1 250 320 162 143
+positive/dataset_5_img123.png 1 234 327 177 147
+positive/dataset_5_img124.png 1 235 274 156 154
+positive/dataset_5_img125.png 1 203 331 178 172
+positive/dataset_5_img126.png 1 143 398 214 216
+positive/dataset_5_img127.png 1 92 420 252 242
+positive/dataset_5_img128.png 1 76 427 261 267
+positive/dataset_5_img129.png 1 89 373 278 257
+positive/dataset_5_img13.png 3 509 350 183 172 61 219 59 60 422 211 53 51
+positive/dataset_5_img139.png 1 0 426 237 239
+positive/dataset_5_img14.png 3 532 371 185 177 421 209 60 60 42 219 71 65
+positive/dataset_5_img140.png 2 76 373 212 202 774 455 185 261
+positive/dataset_5_img141.png 2 112 363 195 192 759 428 199 246
+positive/dataset_5_img142.png 2 128 373 183 188 729 428 226 239
+positive/dataset_5_img143.png 2 651 346 182 182 186 305 647 223
+positive/dataset_5_img144.png 2 217 292 131 128 646 314 150 171
+positive/dataset_5_img145.png 2 227 279 136 127 637 300 163 160
+positive/dataset_5_img146.png 2 648 357 154 157 221 334 153 127
+positive/dataset_5_img147.png 3 254 271 124 120 612 296 148 134 442 465 307 251
+positive/dataset_5_img148.png 3 455 370 224 241 592 256 129 130 271 250 118 100
+positive/dataset_5_img149.png 3 285 248 107 92 592 256 117 114 451 346 210 214
+positive/dataset_5_img15.png 3 519 367 202 190 417 210 61 58 36 213 63 65
+positive/dataset_5_img150.png 3 285 234 103 103 573 245 133 123 449 331 210 215
+positive/dataset_5_img151.png 2 451 406 208 222 294 305 111 105
+positive/dataset_5_img152.png 3 449 325 168 167 303 236 88 92 564 242 112 112
+positive/dataset_5_img153.png 3 308 226 92 87 438 289 160 150 552 231 102 101
+positive/dataset_5_img154.png 3 453 269 136 138 325 220 83 84 554 222 96 96
+positive/dataset_5_img155.png 3 446 260 145 145 324 216 86 84 561 227 86 87
+positive/dataset_5_img156.png 3 459 297 128 142 338 256 81 78 560 253 88 95
+positive/dataset_5_img157.png 3 341 221 76 70 453 258 113 111 546 221 77 83
+positive/dataset_5_img158.png 3 456 241 109 109 550 217 71 74 346 211 82 70
+positive/dataset_5_img159.png 3 348 201 78 79 459 237 102 96 538 208 83 75
+positive/dataset_5_img16.png 3 529 293 209 198 420 144 58 54 29 149 72 68
+positive/dataset_5_img160.png 3 461 290 106 103 352 259 82 78 545 264 79 80
+positive/dataset_5_img161.png 4 456 225 104 95 351 197 77 74 530 201 87 82 895 199 61 58
+positive/dataset_5_img162.png 4 456 216 95 95 358 199 72 65 535 212 64 60 873 196 55 58
+positive/dataset_5_img163.png 4 369 199 61 62 464 222 81 83 530 204 71 65 866 190 53 64
+positive/dataset_5_img164.png 4 466 226 77 78 367 201 62 58 535 198 63 72 862 193 55 57
+positive/dataset_5_img165.png 4 459 260 95 88 371 247 64 59 527 246 72 67 856 238 56 60
+positive/dataset_5_img166.png 4 462 211 75 76 377 195 50 52 520 200 71 60 828 193 49 48
+positive/dataset_5_img167.png 4 460 201 77 83 377 191 58 57 519 191 65 61 811 181 59 57
+positive/dataset_5_img168.png 4 454 205 84 74 384 189 53 55 520 194 58 60 812 179 47 54
+positive/dataset_5_img169.png 4 463 260 70 68 387 243 57 58 517 236 65 58 810 230 58 56
+positive/dataset_5_img17.png 3 558 445 296 262 415 201 76 74 8 215 78 74
+positive/dataset_5_img170.png 4 380 206 55 56 454 216 72 71 521 207 55 56 799 205 56 49
+positive/dataset_5_img171.png 4 456 198 72 66 386 193 52 47 515 193 56 51 785 186 42 45
+positive/dataset_5_img172.png 4 459 191 73 68 388 187 52 45 519 188 54 50 779 181 46 44
+positive/dataset_5_img173.png 4 456 193 73 66 390 187 49 46 516 184 54 51 774 179 46 48
+positive/dataset_5_img174.png 4 460 252 73 68 395 249 48 45 513 248 58 49 777 246 46 43
+positive/dataset_5_img175.png 4 455 189 71 72 397 189 46 40 509 187 52 47 759 182 42 46
+positive/dataset_5_img176.png 5 401 186 43 39 466 195 53 49 513 182 44 46 757 180 42 43 673 499 258 218
+positive/dataset_5_img177.png 5 640 454 236 259 747 178 44 43 468 189 54 54 401 184 44 42 512 188 44 43
+positive/dataset_5_img178.png 5 631 443 247 267 747 179 43 40 507 182 53 42 460 190 52 48 390 181 56 42
+positive/dataset_5_img179.png 4 429 182 51 46 499 186 61 57 547 176 48 51 778 173 44 42
+positive/dataset_5_img18.png 3 420 205 77 72 1 222 61 74 639 531 320 187
+positive/dataset_5_img180.png 4 477 177 45 39 560 188 48 48 819 179 46 38 594 183 42 37
+positive/dataset_5_img181.png 5 2 277 88 110 491 175 57 46 582 186 51 50 614 174 51 53 840 177 45 42
+positive/dataset_5_img182.png 5 0 275 103 117 498 183 42 38 590 192 52 51 614 184 44 43 840 180 46 39
+positive/dataset_5_img183.png 4 494 172 44 43 588 178 54 59 851 164 40 46 613 171 55 49
+positive/dataset_5_img184.png 4 497 183 50 50 593 192 68 65 623 187 55 48 864 178 53 50
+positive/dataset_5_img185.png 4 492 188 53 45 589 196 72 64 620 184 64 59 875 184 47 46
+positive/dataset_5_img186.png 4 500 191 47 43 608 201 54 53 630 192 54 47 882 184 43 48
+positive/dataset_5_img187.png 4 496 135 51 47 605 143 61 62 883 130 48 46 633 135 50 49
+positive/dataset_5_img188.png 4 502 188 51 52 613 200 74 73 905 184 50 56 639 192 64 54
+positive/dataset_5_img189.png 3 498 189 58 54 925 186 34 52 614 206 81 70
+positive/dataset_5_img19.png 2 2 218 52 81 429 205 61 71
+positive/dataset_5_img190.png 2 504 197 62 60 625 208 86 80
+positive/dataset_5_img191.png 2 494 138 65 66 623 150 81 78
+positive/dataset_5_img192.png 2 496 188 72 66 636 203 85 85
+positive/dataset_5_img193.png 2 510 209 61 59 658 225 81 84
+positive/dataset_5_img194.png 2 513 206 66 72 659 223 90 87
+positive/dataset_5_img195.png 2 506 207 69 66 663 223 90 89
+positive/dataset_5_img196.png 2 499 139 75 71 662 153 98 94
+positive/dataset_5_img197.png 3 512 200 76 76 692 227 104 104 696 205 99 77
+positive/dataset_5_img198.png 2 520 211 76 76 715 242 100 101
+positive/dataset_5_img199.png 2 524 209 83 89 729 242 106 111
+positive/dataset_5_img2.png 4 479 235 95 93 427 191 53 56 177 206 40 43 69 209 56 57
+positive/dataset_5_img20.png 2 417 210 66 66 1 224 44 75
+positive/dataset_5_img200.png 2 517 165 90 98 724 203 119 113
+positive/dataset_5_img201.png 2 751 238 97 105 528 202 79 78
+positive/dataset_5_img202.png 3 541 228 77 80 797 277 128 130 779 237 88 82
+positive/dataset_5_img203.png 3 545 233 77 83 826 282 122 133 789 246 99 87
+positive/dataset_5_img204.png 3 541 231 92 86 793 242 104 92 831 285 126 139
+positive/dataset_5_img205.png 3 537 165 95 88 839 227 117 124 806 171 88 91
+positive/dataset_5_img206.png 2 555 237 92 83 844 242 101 105
+positive/dataset_5_img207.png 1 565 249 97 86
+positive/dataset_5_img208.png 1 568 249 100 97
+positive/dataset_5_img209.png 1 571 252 100 91
+positive/dataset_5_img21.png 1 419 157 73 72
+positive/dataset_5_img210.png 1 566 204 108 98
+positive/dataset_5_img211.png 1 595 272 115 111
+positive/dataset_5_img212.png 1 613 296 123 111
+positive/dataset_5_img213.png 1 614 292 129 125
+positive/dataset_5_img214.png 1 614 228 125 127
+positive/dataset_5_img215.png 1 664 320 140 145
+positive/dataset_5_img216.png 1 689 332 174 177
+positive/dataset_5_img217.png 1 703 335 198 199
+positive/dataset_5_img218.png 1 712 274 186 185
+positive/dataset_5_img219.png 1 784 395 175 217
+positive/dataset_5_img22.png 1 425 218 78 70
+positive/dataset_5_img23.png 1 428 225 76 65
+positive/dataset_5_img236.png 1 870 256 88 107
+positive/dataset_5_img237.png 1 831 246 98 101
+positive/dataset_5_img238.png 1 819 239 97 95
+positive/dataset_5_img239.png 1 823 297 98 99
+positive/dataset_5_img24.png 1 425 212 71 82
+positive/dataset_5_img240.png 1 796 231 92 90
+positive/dataset_5_img241.png 1 773 227 73 79
+positive/dataset_5_img242.png 1 756 214 86 87
+positive/dataset_5_img243.png 1 745 211 86 85
+positive/dataset_5_img244.png 1 752 267 81 85
+positive/dataset_5_img245.png 1 723 203 82 80
+positive/dataset_5_img246.png 1 716 202 71 69
+positive/dataset_5_img247.png 1 702 196 73 79
+positive/dataset_5_img248.png 1 702 252 82 81
+positive/dataset_5_img249.png 1 690 197 74 63
+positive/dataset_5_img25.png 1 427 158 72 65
+positive/dataset_5_img250.png 1 672 195 70 64
+positive/dataset_5_img251.png 3 668 191 66 68 864 204 63 64 894 222 65 76
+positive/dataset_5_img252.png 3 665 194 63 58 855 195 60 67 885 220 73 75
+positive/dataset_5_img253.png 3 668 242 60 59 857 246 55 65 885 270 69 70
+positive/dataset_5_img254.png 2 643 194 66 58 833 215 74 69
+positive/dataset_5_img255.png 3 646 191 60 62 814 211 76 69 0 559 311 160
+positive/dataset_5_img256.png 3 802 207 74 71 637 194 60 54 34 501 274 215
+positive/dataset_5_img257.png 3 5 514 311 204 633 181 64 56 813 205 65 60
+positive/dataset_5_img258.png 3 635 219 58 57 792 233 75 69 92 479 240 210
+positive/dataset_5_img259.png 3 174 375 189 163 623 188 52 52 767 200 65 64
+positive/dataset_5_img26.png 1 430 230 79 74
+positive/dataset_5_img260.png 3 209 346 167 143 621 186 49 47 753 195 65 60
+positive/dataset_5_img261.png 3 215 336 159 149 616 182 53 49 758 194 60 62
+positive/dataset_5_img262.png 3 237 369 147 144 613 222 55 55 744 235 66 61
+positive/dataset_5_img263.png 3 265 300 137 123 599 181 60 60 727 197 55 59
+positive/dataset_5_img264.png 3 289 284 123 115 603 180 48 47 728 194 55 52
+positive/dataset_5_img265.png 3 288 280 123 105 597 181 52 49 713 190 68 60
+positive/dataset_5_img27.png 1 429 235 87 83
+positive/dataset_5_img28.png 1 428 235 92 81
+positive/dataset_5_img29.png 1 423 230 86 85
+positive/dataset_5_img3.png 4 481 196 86 79 426 151 44 43 162 154 47 49 47 161 64 64
+positive/dataset_5_img30.png 1 413 194 106 94
+positive/dataset_5_img31.png 1 420 242 109 105
+positive/dataset_5_img32.png 1 424 264 105 107
+positive/dataset_5_img33.png 1 422 261 109 103
+positive/dataset_5_img34.png 1 423 206 113 106
+positive/dataset_5_img35.png 1 433 278 121 119
+positive/dataset_5_img36.png 1 431 290 141 135
+positive/dataset_5_img37.png 1 423 292 146 145
+positive/dataset_5_img38.png 1 433 291 151 142
+positive/dataset_5_img39.png 1 441 308 164 158
+positive/dataset_5_img4.png 4 478 248 99 89 433 191 39 42 149 196 51 52 29 209 61 61
+positive/dataset_5_img40.png 1 431 368 214 204
+positive/dataset_5_img41.png 1 434 395 234 217
+positive/dataset_5_img42.png 1 419 390 235 256
+positive/dataset_5_img43.png 1 419 390 250 235
+positive/dataset_5_img44.png 1 680 381 219 221
+positive/dataset_5_img49.png 1 843 322 115 142
+positive/dataset_5_img5.png 4 480 251 100 88 427 192 40 48 139 205 49 45 9 211 61 61
+positive/dataset_5_img50.png 1 70 272 758 32
+positive/dataset_5_img51.png 1 825 355 131 137
+positive/dataset_5_img52.png 1 755 277 118 122
+positive/dataset_5_img53.png 1 738 260 108 117
+positive/dataset_5_img54.png 1 723 253 110 105
+positive/dataset_5_img55.png 1 735 278 103 107
+positive/dataset_5_img56.png 2 709 254 101 99 2 286 80 137
+positive/dataset_5_img57.png 2 682 236 105 91 25 260 123 123
+positive/dataset_5_img58.png 2 43 252 105 113 680 223 92 95
+positive/dataset_5_img59.png 2 38 252 109 102 669 222 89 98
+positive/dataset_5_img6.png 4 489 252 103 99 426 193 49 48 139 200 49 54 8 214 56 58
+positive/dataset_5_img60.png 2 57 305 103 107 667 275 90 89
+positive/dataset_5_img61.png 2 96 231 102 98 650 216 72 72
+positive/dataset_5_img62.png 2 119 224 98 92 637 205 80 78
+positive/dataset_5_img63.png 2 132 225 86 82 638 202 72 75
+positive/dataset_5_img64.png 2 132 225 85 85 635 206 71 76
+positive/dataset_5_img65.png 2 136 292 85 79 638 270 66 68
+positive/dataset_5_img66.png 3 160 219 81 84 612 210 69 65 0 222 62 70
+positive/dataset_5_img67.png 3 9 215 80 69 172 209 84 82 609 200 67 71
+positive/dataset_5_img68.png 4 187 208 71 74 612 196 58 61 26 204 66 73 1 234 73 101
+positive/dataset_5_img69.png 4 182 210 74 73 615 196 56 61 20 202 70 65 1 226 74 109
+positive/dataset_5_img7.png 4 485 196 97 92 429 136 40 40 129 146 53 48 3 154 52 51
+positive/dataset_5_img70.png 4 608 244 55 53 196 255 72 68 33 253 71 65 4 270 89 109
+positive/dataset_5_img71.png 3 35 229 91 90 209 204 66 67 589 196 61 58
+positive/dataset_5_img72.png 3 57 218 87 91 220 198 70 72 586 188 61 64
+positive/dataset_5_img73.png 3 64 212 93 94 223 197 69 76 586 195 55 58
+positive/dataset_5_img74.png 3 229 195 61 64 591 188 53 54 61 215 94 85
+positive/dataset_5_img75.png 3 85 247 85 89 237 235 58 62 581 225 60 58
+positive/dataset_5_img76.png 3 113 213 77 76 245 200 62 58 578 188 50 51
+positive/dataset_5_img77.png 3 130 204 79 76 251 194 60 57 579 187 47 49
+positive/dataset_5_img78.png 3 134 200 73 72 257 189 56 54 570 182 57 51
+positive/dataset_5_img79.png 3 132 265 81 78 260 258 61 55 578 249 46 49
+positive/dataset_5_img8.png 3 494 265 108 103 427 198 46 42 122 211 52 46
+positive/dataset_5_img80.png 4 569 183 56 46 266 192 58 49 154 203 66 67 860 260 98 125
+positive/dataset_5_img81.png 4 821 250 122 117 561 183 47 46 277 190 52 49 172 199 58 57
+positive/dataset_5_img82.png 4 174 191 63 57 277 184 50 50 562 178 43 45 813 236 104 110
+positive/dataset_5_img83.png 4 179 190 69 63 281 186 55 49 558 177 50 45 791 241 113 107
+positive/dataset_5_img84.png 4 804 300 105 108 559 243 50 46 288 252 50 48 184 259 64 54
+positive/dataset_5_img85.png 4 756 222 122 117 558 176 44 45 288 182 58 49 191 185 70 64
+positive/dataset_5_img86.png 4 737 218 95 96 546 174 55 52 294 181 50 48 200 188 69 60
+positive/dataset_5_img87.png 4 209 185 57 52 295 179 50 50 543 173 56 52 721 210 98 92
+positive/dataset_5_img88.png 4 722 215 89 86 544 173 57 49 299 178 46 47 208 180 59 62
+positive/dataset_5_img89.png 4 743 218 92 86 559 179 47 42 310 182 52 51 227 186 59 56
+positive/dataset_5_img9.png 4 496 277 139 127 422 191 59 53 105 207 57 55 1 203 42 58
+positive/dataset_5_img90.png 5 257 174 50 50 294 182 54 57 370 178 46 44 613 174 41 44 854 219 94 90
+positive/dataset_5_img91.png 5 637 177 45 48 318 182 67 67 397 182 39 44 283 181 47 45 2 446 168 266
+positive/dataset_5_img92.png 5 2 445 251 267 296 182 45 44 343 192 46 48 401 187 51 44 646 176 46 44
+positive/dataset_5_img93.png 5 3 364 248 310 294 123 44 44 333 128 59 61 393 117 62 53 643 110 46 48
+positive/dataset_5_img94.png 4 320 192 75 66 395 184 53 50 652 178 41 49 289 187 45 45
+positive/dataset_5_img95.png 4 317 195 66 63 392 180 53 54 657 178 46 44 276 186 45 48
+positive/dataset_5_img96.png 4 318 216 63 66 397 214 52 47 665 200 47 48 272 209 54 49
+positive/dataset_5_img97.png 4 312 203 65 65 394 195 50 49 663 184 45 52 272 192 49 50
+positive/dataset_5_img98.png 4 304 185 76 70 385 174 58 53 662 165 54 52 267 174 46 51
+positive/dataset_5_img99.png 4 303 211 70 67 253 194 60 57 384 201 61 57 677 183 58 56
