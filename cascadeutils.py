@@ -2,6 +2,7 @@
 https://learncodebygaming.com/blog/training-a-cascade-classifier'''
 
 import os
+from shutil import move
 
 # reads all the files in the /negative folder and generates neg.txt from them.
 # we'll run it manually like this:
@@ -18,23 +19,31 @@ def generate_negative_description_file():
         for filename in os.listdir('negative'):
             f.write('negative/' + filename + '\n')
 
-def edit_text():
-    replacements = {r'C:\Users\coolk\OneDrive - Utah Valley University\WindTurbineProject\Datasets\9-6-23-newimages_unlabled':'positive'}
-    with open('pos.txt') as infile, open('output.txt', 'w') as outfile:
-        for line in infile:
-            for src, target in replacements.items():
-                line = line.replace(src, target)
-            outfile.write(line)
-
-def get_file_names():
-    with open('mason_pos.txt', 'r') as file1, open('output.txt', 'w') as file2:
+def check_pos(filename, dir):
+    img_list = []
+    img_destination = 'uncategorized_images'
+    with open(filename, 'r') as file1:
         for line in file1:
-            file2.write(line.split(' ')[0] + '\n')
+            img_name = line.split()[0].split('\\')[1]
+            img_list.append(img_name)
+            if not os.path.isfile(os.path.join(dir, img_name)): # Check if file exists within the directory
+                print(f'{img_name} from {filename} is not found in {dir} directory')
+    for file in os.listdir(dir):
+        if file not in img_list:
+            print(f'{file} from {dir} directory not found in {filename}, moving it to {img_destination}')
+            move(os.path.join(dir, file), os.path.join(img_destination, file))
+
+
+def delete_duplicate_files(source_dir, target_dir1, target_dir2):
+    '''Delete file from source directory if it exists in target directory'''
+    for filename in os.listdir(source_dir):
+        if filename in os.listdir(target_dir1) or filename in os.listdir(target_dir2):
+            os.remove(os.path.join(source_dir, filename))            
+
 
 # generate_negative_description_file()
-# edit_text()
-# get_file_names()
-
+check_pos('all_pos.txt', 'positive')
+delete_duplicate_files('uncategorized_images', 'negative', 'positive')
 # the opencv_annotation executable can be found in opencv/build/x64/vc15/bin
 # generate positive description file using:
 # & "C:\Users\10801309\OneDrive - Utah Valley University\opencv\build\x64\vc15\bin\opencv_annotation.exe" --annotations=pos.txt --images=positive/
