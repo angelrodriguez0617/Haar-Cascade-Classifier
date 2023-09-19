@@ -6,7 +6,7 @@ import os
 from haar_cascade_images import findTurbine
 
 CWD = os.getcwd()
-cascade_folder = "cascade"
+cascade_folder = "all_cascade"
 # cascade_path = os.path.join(CWD, cascade_folder)
 
 if __name__ == "__main__":
@@ -17,7 +17,7 @@ if __name__ == "__main__":
     while True:
         # Capture frame-by-frame
         ret, img = video_cap.read()
-        # img = cv.resize(img, None, fx=0.25, fy=0.25, interpolation=cv.INTER_AREA)
+        img = cv.resize(img, None, fx=0.5, fy=0.5, interpolation=cv.INTER_AREA)
         img, info = findTurbine(img, cascade_folder, largest_only=False)
         if info[0][0]: # Turbine detected
             # (Focal length of camera lense * Real-world width of object)/Width of object in pixels
