@@ -6,7 +6,7 @@ import os
 from haar_cascade_images import findTurbine
 
 CWD = os.getcwd()
-cascade_folder = "all_cascade"
+cascade_folder = "09-21_cascade"
 # cascade_path = os.path.join(CWD, cascade_folder)
 
 if __name__ == "__main__":

@@ -7,6 +7,12 @@ import os
 CWD = os.getcwd()
 image_folder = 'positive'
 
+# Check if the "positive" folder exists in the first directory
+if not os.path.exists(os.path.join(image_folder)):
+    # If not, create a symlink to the shared folder
+    positive_folder = r'C:\Users\10801309\OneDrive - Utah Valley University\23-07-31-Mini3ProSmallWtb\positive'
+    os.symlink(positive_folder, os.path.join(CWD, image_folder))
+
 def findTurbine(img, cascade_path, largest_only=False):
     '''Take an input image and searches for the target object using an xml file. 
     Returns the inupt image with boundaries drawn around the detected object and the x and y values of the center of the target in the image
